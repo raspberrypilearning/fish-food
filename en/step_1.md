@@ -1,59 +1,33 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Train a machine learning model to recognise an alien language and use it to control an alien. 
 
-### What you will make
+You will need a **microphone**.
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![Alien moving left and right to new words, Eeek and Bop](images/journey.gif)
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+![Overview of entire Scratch project](images/test-new-blocks.png)
+
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: License
 ---
-### Hardware
 
-+ A computer or tablet capable of running Scratch 3
+This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
 
 --- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
 
---- /collapse ---
 
---- collapse ---
----
-title: Additional information for educators
----
 
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---

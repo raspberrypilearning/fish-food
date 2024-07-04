@@ -1,11 +1,15 @@
-title: default-project-template
+title: Fish food
 hero_image: images/banner.png
-description: default-project-template description
-version: 4
+description: Control a fish to eat the food using only your voice
+version: 1
 listed: false
 copyedit: false
-last_tested: "2022-05-19"
+last_tested: "2024-06-04"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Set up the project
+  - title: Record the directions
+  - title: Train the model
+  - title: Control the fish
+  - title: Challenge
   - title: What next?

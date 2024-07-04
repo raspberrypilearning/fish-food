@@ -1,6 +1,6 @@
-## Control the alien
+## Move the fish
 
-Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
+Now that your model can distinguish between words, you can use it in a Scratch program to move a fish around the screen.
 
 --- task ---
 + Click on the **< Back to project** link.
@@ -14,18 +14,18 @@ Now that your model can distinguish between words, you can use it in a Scratch p
 --- /task ---
 
 --- task ---
-+ Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite which has some code already added to it. 
++ Click on **Project templates** at the top and select the 'Fish food' project to load the fish sprite which has some code already added to it. 
 
-![Alien language project](images/alien-language.png)
+![Fish food project](images/fish-food.png)
 --- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
 
 ![New blocks](images/new-blocks.png)
 
 --- task ---
 
-+ Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!)
++ Make sure you have the **Fish** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!)
 ![Add code to control the alien](images/control-alien-blocks.png)
 
 --- /task ---

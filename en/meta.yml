@@ -11,6 +11,6 @@ steps:
   - title: Background noise
   - title: Record the directions
   - title: Train the model
-  - title: Control the fish
+  - title: Move the fish
   - title: Challenge
   - title: What next?

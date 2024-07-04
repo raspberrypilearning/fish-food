@@ -1,41 +1,32 @@
-## Control the alien
+## Train the model
 
-Now that your model can distinguish between words, you can use it in a Scratch program to control an alien.
-
---- task ---
-+ Click on the **< Back to project** link.
-
-+ Click on **Make**.
-
-+ Click on **Scratch 3**.
-
-+ Click on **Open in Scratch 3**.
-
---- /task ---
-
---- task ---
-+ Click on **Project templates** at the top and select the 'Alien language' project to load the alien sprite which has some code already added to it. 
-
-![Alien language project](images/alien-language.png)
---- /task ---
-
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. This project template also contains special 'walk left' and 'walk right' blocks inside "My Blocks". Find both at the bottom of the blocks list.
-
-![New blocks](images/new-blocks.png)
+You have gathered the examples you need, now you will use these examples to train your machine learning model.
 
 --- task ---
 
-+ Make sure you have the **Alien** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!)
-![Add code to control the alien](images/control-alien-blocks.png)
++ Click on **Back to project** in the top left-hand corner.
+
++ Click on **Learn & Test**.
+
++ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete.
+![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
 
 --- /task ---
+
+Once the training has finished, you can test how well your model recognises the alien words you have invented.  
 
 --- task ---
-+ Click the **green flag** and say your alien words for "left" and "right". Check that the alien moves in the way you expected. 
+
++ Click the **Start listening** button, then say your alien word for "left". 
+
+If your machine learning model recognises it, it will display what it thinks you said.
+![Arrow pointing to the start listening button](images/test-your-model.png)
+
++ Test whether the model recognises your alien word for "right" as well.
 
 --- /task ---
 
-
+If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
 
 
 

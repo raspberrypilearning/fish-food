@@ -1,32 +1,20 @@
-## Train the model
+## Record the directions
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Invent two alien words — a word that means "left" and a word that means "right".
 
---- task ---
-
-+ Click on **Back to project** in the top left-hand corner.
-
-+ Click on **Learn & Test**.
-
-+ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete.
-![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
-
---- /task ---
-
-Once the training has finished, you can test how well your model recognises the alien words you have invented.  
+Now you will record eight examples of each word so that your machine learning model can learn to recognise them.
 
 --- task ---
-
-+ Click the **Start listening** button, then say your alien word for "left". 
-
-If your machine learning model recognises it, it will display what it thinks you said.
-![Arrow pointing to the start listening button](images/test-your-model.png)
-
-+ Test whether the model recognises your alien word for "right" as well.
-
++ Click on **+ Add new label** on the top right of the screen and add a label called `left`.
 --- /task ---
 
-If you are not happy with how the model is working, go back to the **Train** page and add more examples, then train your model again.
+--- task ---
++ Click on **+ Add example** inside the box for the new `left` label, and record yourself saying your alien word for "left". 
 
++ Repeat until you have recorded **at least eight examples**.
+--- /task ---
 
+--- task ---
++ **+ Add new label** to create another label called `right` and record eight examples of your alien word for "right". 
+--- /task ---
 

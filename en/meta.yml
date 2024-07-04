@@ -8,6 +8,7 @@ last_tested: "2024-06-04"
 steps:
   - title: Introduction
   - title: Set up the project
+  - title: Background noise
   - title: Record the directions
   - title: Train the model
   - title: Control the fish

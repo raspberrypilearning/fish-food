@@ -16,8 +16,8 @@
 + Name your project 'Fish food' and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**.
 ![Creating a project](images/create-project.png)
 
-+ You should now see 'Alien language' in the projects list. Click on the project.
-![Project list with alien language listed](images/projects-list.png)
++ You should now see 'Fish food' in the projects list. Click on the project.
+![Project list with Fish food listed](images/projects-list.png)
 --- /task ---
 
 --- task ---

@@ -1,6 +1,6 @@
 ## Background noise
 
-First, you will collect samples of background noise. This will help your machine learning model to tell the difference between the sounds that you will train it to recognise, and the background noise where you are.
+First, you will collect samples of background noise. This will help your machine learning model to tell the difference between your voice commands, and the background noise where you are.
 
 --- task ---
 + Click the **+ Add example** button in **background noise**.

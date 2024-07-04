@@ -13,16 +13,16 @@ You have gathered the examples you need, now you will use these examples to trai
 
 --- /task ---
 
-Once the training has finished, you can test how well your model recognises the alien words you have invented.  
+Once the training has finished, you can test how well your model recognises your voice commands.  
 
 --- task ---
 
-+ Click the **Start listening** button, then say your alien word for "left". 
++ Click the **Start listening** button, then say "left". 
 
 If your machine learning model recognises it, it will display what it thinks you said.
 ![Arrow pointing to the start listening button](images/test-your-model.png)
 
-+ Test whether the model recognises your alien word for "right" as well.
++ Test whether the model recognises "up", "down" and "right" as well.
 
 --- /task ---
 

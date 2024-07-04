@@ -13,7 +13,7 @@
 
 + Click on the **+ Add a new project** button.
 
-+ Name your project 'Alien language' and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**.
++ Name your project 'Fish food' and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**.
 ![Creating a project](images/create-project.png)
 
 + You should now see 'Alien language' in the projects list. Click on the project.

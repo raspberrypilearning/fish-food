@@ -25,13 +25,13 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 --- task ---
 
-+ Make sure you have the **Fish** sprite selected, then click on the **Code** tab and add this code. (Keep the code that is already there!)
-![Add code to control the alien](images/control-alien-blocks.png)
++ Make sure you have the **Fish** sprite selected, then click on the **Code** tab. One of the directions has been added for you - can you fill in the rest?
+![Add code to control the fish](images/control-fish-blocks.png)
 
 --- /task ---
 
 --- task ---
-+ Click the **green flag** and say your alien words for "left" and "right". Check that the alien moves in the way you expected. 
++ Click the **green flag** and say up, down, left or right. Check that the fish moves in the direction you expected. 
 
 --- /task ---
 

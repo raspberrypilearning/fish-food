@@ -42,7 +42,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 --- task ---
 
-+ Look at the code you have to move the fish up, then add the code for down, left and right.
++ Look at the code you have to move the fish up, then see if you can work out the code for down, left and right.
 
 --- collapse ---
 ---

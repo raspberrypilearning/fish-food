@@ -13,5 +13,5 @@ First, you will collect samples of background noise. This will help your machine
 
 --- task ---
 + Repeat those steps until you have **at least eight examples** of background noise.
-![bucket filled with 8 background examples](images/8-background.png)
+![Bucket filled with 8 background noise examples](images/8-background.png)
 --- /task ---

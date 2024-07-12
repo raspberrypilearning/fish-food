@@ -22,7 +22,7 @@ Now that your model can distinguish between words, you can use it in a Scratch p
 
 Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
 
-![New blocks](images/new-blocks.png)
+![A list of new blocks created by ML4K](images/new-blocks.png)
 
 
 --- task ---
@@ -36,7 +36,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 --- task ---
 
 + Add the code for 'up' to the **Fish** sprite. 
-![Add code to control the fish](images/starter-code.png)
+![Scratch code: when I hear up, point in direction 0](images/starter-code.png)
 
 --- /task ---
 
@@ -49,7 +49,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 title: Show me how
 ---
 
-![Code for down left and right](images/finished-code.png)
+![Scratch code: When I hear left, point in direction -90 / right: 90 / down: 180](images/finished-code.png)
 
 --- /collapse ---
 

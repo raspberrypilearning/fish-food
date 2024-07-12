@@ -1,9 +1,7 @@
 ## Set up the project
 
 --- task ---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser. 
-
-+ Click on **Get Started**
++ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} in a web browser. 
 
 + Click on **Try it now**.
 --- /task ---

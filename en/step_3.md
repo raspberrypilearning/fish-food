@@ -1,5 +1,7 @@
 ## Background noise
 
+
+
 First, you will collect samples of background noise. This will help your machine learning model to tell the difference between your voice commands, and the background noise where you are.
 
 --- task ---

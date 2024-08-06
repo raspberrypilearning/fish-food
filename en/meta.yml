@@ -9,14 +9,14 @@ steps:
   - title: What you will make
   - title: Set up the project
     completion:
-      - engaged
+    - engaged
   - title: Background noise
   - title: Record the directions
   - title: Train the model
   - title: Move the fish
     completion:
-      - internal
+    - internal
   - title: Challenge
-    completion:
-      - external
   - title: What can you do now?
+    completion:
+    - external

@@ -11,7 +11,7 @@ First, you will collect samples of background noise. This will help your machine
 --- task ---
 Click the **+ Add example** button in **background noise**.
 
-Click on the microphone but don't say anything, to record 2 seconds of background noise.
+Click on the microphone but don't say anything to record 2 seconds of background noise.
 ![Arrow pointing to microphone button.](images/record-button.png)
 
 Click the **Add** button to save your recording.

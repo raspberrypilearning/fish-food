@@ -6,27 +6,27 @@
 </div>
 </html>
 
-Now you will record eight examples of each word ('up', 'down', 'left' and 'right') so that your machine learning model can learn to recognise them.
+Now you will record 8 examples of each word ('up', 'down', 'left', and 'right') so that your machine learning model can learn to recognise them.
 
 --- task ---
-+ Click on **+ Add new label** on the top right of the screen and add a label called `left`.
+Click on **+ Add new label** on the top right of the screen and add a label called `left`.
 --- /task ---
 
 --- task ---
-+ Click on **+ Add example** inside the box for the new `left` label, and record yourself saying "left". 
+Click on **+ Add example** inside the box for the new `left` label, and record yourself saying "left". 
 
-+ Repeat until you have recorded **at least eight examples**.
+Repeat until you have recorded **at least 8 examples**.
 --- /task ---
 
 --- task ---
-+ **+ Add new label** to create another label called `right` and record eight examples of you saying "right". 
+**+ Add new label** to create another label called `right` and record 8 examples of you saying "right". 
 --- /task ---
 
 --- task ---
-+ **+ Add new label** to create another label called `up` and record eight examples of you saying "up". 
+**+ Add new label** to create another label called `up` and record 8 examples of you saying "up". 
 --- /task ---
 
 --- task ---
-+ **+ Add new label** to create another label called `down` and record eight examples of you saying "down". 
+**+ Add new label** to create another label called `down` and record 8 examples of you saying "down". 
 --- /task ---
 

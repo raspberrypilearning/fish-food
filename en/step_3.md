@@ -18,6 +18,6 @@ Click the **Add** button to save your recording.
 --- /task ---
 
 --- task ---
-Repeat those steps until you have **at least eight examples** of background noise.
+Repeat those steps until you have **at least 8 examples** of background noise.
 ![Bucket filled with 8 background noise examples.](images/8-background.png)
 --- /task ---

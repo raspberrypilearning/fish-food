@@ -22,8 +22,6 @@ Click on **Open in Scratch 3**.
 --- task ---
 Click on **Project templates** at the top and select the 'Fish food' project to load the fish sprite, which has some code already added to it. 
 
-**[FOR QA ONLY: Use the fish-food-starter.sb3 file in resources folder]**
-
 --- /task ---
 
 Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
@@ -35,14 +33,14 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 With the **Fish** sprite selected, click on the **Code** tab. Find the right place in the code and add a special block to tell the model to start listening. 
 
-![Scratch code: Add a 'start listening' block to the fish after when flag clicked.](images/start-listening.png)
+![In the fish sprite, add a 'start listening' block after the block 'when flag clicked'.](images/start-listening.png)
 
 --- /task ---
 
 --- task ---
 
 Add the code for 'up' to the **Fish** sprite. 
-![Scratch code: when I hear up, point in direction 0.](images/starter-code.png)
+![In the fish sprite, add a 'when I hear up' block, then a 'point in direction 0' block.](images/starter-code.png)
 
 --- /task ---
 
@@ -55,7 +53,7 @@ Look at the code you have to move the fish up, then see if you can work out the 
 title: Show me how
 ---
 
-![Scratch code: When I hear left, point in direction -90 / right: 90 / down: 180.](images/finished-code.png)
+![Add three more pairs of blocks: 'When I hear left' 'point in direction -90', 'When I hear right' 'point in direction 90', 'When I hear down' 'point in direction 180'.](images/finished-code.png)
 
 --- /collapse ---
 

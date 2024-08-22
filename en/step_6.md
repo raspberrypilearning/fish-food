@@ -26,21 +26,21 @@ Click on **Project templates** at the top and select the 'Fish food' project to 
 
 Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
 
-![A list of new blocks created by Machine Learning for Kids.](images/new-blocks.png)
+![A list of new blocks created by Machine Learning for Kids, including instructions such as 'Start listening', 'Stop listening', and 'When I hear left'.](images/new-blocks.png)
 
 
 --- task ---
 
-With the **Fish** sprite selected, click on the **Code** tab. Find the right place in the code and add a special block to tell the model to start listening. 
+With the **fish** sprite selected, click on the **Code** tab. Find the right place in the code and add a special block to tell the model to start listening. 
 
-![In the fish sprite, add a 'start listening' block after the block 'when flag clicked'.](images/start-listening.png)
+![In the fish sprite, a 'start listening' block is added after the 'when flag clicked' block.](images/start-listening.png)
 
 --- /task ---
 
 --- task ---
 
 Add the code for 'up' to the **Fish** sprite. 
-![In the fish sprite, add a 'when I hear up' block, then a 'point in direction 0' block.](images/starter-code.png)
+![In the fish sprite, a 'when I hear up' block is added, then a 'point in direction 0' block.](images/starter-code.png)
 
 --- /task ---
 
@@ -53,7 +53,7 @@ Look at the code you have to move the fish up, then see if you can work out the 
 title: Show me how
 ---
 
-![Add three more pairs of blocks: 'When I hear left' 'point in direction -90', 'When I hear right' 'point in direction 90', 'When I hear down' 'point in direction 180'.](images/finished-code.png)
+![Three more pairs of blocks are added: 'When I hear left' and 'point in direction -90'; 'When I hear right' and 'point in direction 90'; 'When I hear down' and 'point in direction 180'.](images/finished-code.png)
 
 --- /collapse ---
 

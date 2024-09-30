@@ -1,11 +1,11 @@
-# default-project-template
+# Fish food
 
-![default-project-template](banner.png)
+![Fish food](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/default-project-template](https://projects.raspberrypi.org/en/projects/default-project-template)
+Find the project online at [projects.raspberrypi.org/en/projects/fish-food](https://projects.raspberrypi.org/en/projects/fish-food)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/default-project-template/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/default-project-template/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/fish-food/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/fish-food/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)

@@ -1,0 +1,23 @@
+title: Fish food
+hero_image: images/banner.png
+description: Control a fish using only your voice and direct it to the food
+version: 1
+listed: false
+copyedit: false
+last_tested: "2024-06-04"
+steps:
+  - title: What you will make
+  - title: Set up the project
+    completion:
+    - engaged
+  - title: Background noise
+  - title: Record the directions
+  - title: Train the model
+  - title: Move the fish
+    completion:
+    - internal
+  - title: Challenge
+    challenge: true
+  - title: What can you do now?
+    completion:
+    - external

@@ -23,14 +23,17 @@ Once the training has finished, you can test how well your model recognises your
 
 --- task ---
 
-Click the **Start listening** button, then say "left". 
+Click the **Start listening** button, then say "left".
+
 --- /task ---
 
 If your machine learning model recognises it, it will display what it predicts you said.
 ![Arrow pointing to the start listening button.](images/test-your-model.png)
 
 --- task ---
+
 Test whether the model recognises "up", "down", and "right" as well.
+
 --- /task ---
 
 If you are not happy with how the model works, go back to the **Train** page and add more examples, then train your model again.

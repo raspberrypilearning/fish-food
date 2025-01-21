@@ -9,6 +9,7 @@
 Now that your model can distinguish between words, you can use it in a Scratch program to move a fish around the screen.
 
 \--- task ---
+
 Click on the **< Back to project** link.
 
 Click on **Make**.
@@ -20,6 +21,7 @@ Click on **Open in Scratch 3**.
 \--- /task ---
 
 \--- task ---
+
 Click on **Project templates** at the top and select the 'Fish food' project to load the fish sprite, which has some code already added to it.
 
 \--- /task ---
@@ -58,6 +60,7 @@ Look at the code you have to move the fish up, then see if you can work out the 
 \--- /task ---
 
 \--- task ---
+
 Click the **green flag** and say up, down, left, or right. Check that the fish moves in the direction you expected.
 
 \--- /task ---

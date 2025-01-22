@@ -2,7 +2,7 @@ title: Fish food
 hero_image: images/banner.png
 description: Control a fish using only your voice and direct it to the food
 version: 1
-listed: false
+listed: true
 copyedit: false
 last_tested: "2024-06-04"
 steps:
@@ -22,10 +22,9 @@ steps:
     title: Move the fish
     completion:
       - internal
+      - external
   - 
     title: Challenge
     challenge: true
   - 
     title: What can you do now?
-    completion:
-      - external

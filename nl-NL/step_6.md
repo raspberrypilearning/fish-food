@@ -64,3 +64,8 @@ Look at the code you have to move the fish up, then see if you can work out the 
 Click the **green flag** and say up, down, left, or right. Check that the fish moves in the direction you expected.
 
 \--- /task ---
+
+
+
+
+

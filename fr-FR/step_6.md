@@ -1,4 +1,4 @@
-## Move the fish
+## Déplacer le poisson
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,54 +6,54 @@
 </div>
 </html>
 
-Now that your model can distinguish between words, you can use it in a Scratch program to move a fish around the screen.
+Maintenant que ton modèle peut distinguer les mots, tu peux l’utiliser dans un programme Scratch pour déplacer un poisson sur l’écran.
 
 \--- task ---
 
-Click on the **< Back to project** link.
+Clique sur le lien **< Revenir au projet**.
 
-Click on **Make**.
+Clique sur **Faire**.
 
-Click on **Scratch 3**.
+Clique sur **Scratch 3**.
 
-Click on **Open in Scratch 3**.
+Clique sur **Ouvrir dans Scratch 3**.
 
 \--- /task ---
 
 \--- task ---
 
-Click on **Project templates** at the top and select the 'Fish food' project to load the fish sprite, which has some code already added to it.
+Clique sur **Modèles de projet** en haut et sélectionne le projet « Fish Food » pour charger le sprite poisson, auquel du code a déjà été ajouté.
 
 \--- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Machine Learning for Kids a ajouté des blocs spéciaux à Scratch pour te permettre d'utiliser le modèle que tu viens d'entraîner. Trouve-les en bas de la liste des blocs.
 
-![A list of new blocks created by Machine Learning for Kids, including instructions such as 'Start listening', 'Stop listening', and 'When I hear left'.](images/new-blocks.png)
-
-\--- task ---
-
-With the **fish** sprite selected, click on the **Code** tab. Find the right place in the code and add a special block to tell the model to start listening.
-
-![In the fish sprite, a 'start listening' block is added after the 'when flag clicked' block.](images/start-listening.png)
-
-\--- /task ---
+![Une liste de nouveaux blocs créés par Machine Learning for Kids, comprenant des instructions telles que "commencez à écouter", "arrêter d'écouter" et "when I hear gauche".](images/new-blocks.png)
 
 \--- task ---
 
-Add the code for 'up' to the **Fish** sprite.
-![In the fish sprite, a 'when I hear up' block is added, then a 'point in direction 0' block.](images/starter-code.png)
+Avec le sprite **poisson** sélectionné, clique sur l'onglet **Code**. Trouve le bon endroit dans le code et ajoute un bloc spécial pour indiquer au modèle de commencer à écouter.
+
+![Dans le sprite poisson, un bloc "commencer à écouter" est ajouté après le bloc "quand le drapeau est cliqué".](images/start-listening.png)
 
 \--- /task ---
 
 \--- task ---
 
-Look at the code you have to move the fish up, then see if you can work out the code for down, left, and right.
+Ajoute le code pour « haut » au sprite **Poisson**.
+![Dans le sprite poisson, un bloc "when I hear haut" est ajouté, puis un bloc "s'orienter à 0".](images/starter-code.png)
+
+\--- /task ---
+
+\--- task ---
+
+Regarde le code que tu dois utiliser pour déplacer le poisson vers le haut, puis vois si tu peux déterminer le code pour le bas, la gauche et la droite.
 
 ## --- collapse ---
 
-## title: Show me how
+## title: Montre-moi comment
 
-![Three more pairs of blocks are added: 'When I hear left' and 'point in direction -90'; 'When I hear right' and 'point in direction 90'; 'When I hear down' and 'point in direction 180'.](images/finished-code.png)
+![Trois autres paires de blocs sont ajoutées : "when I hear gauche" et "s'orienter à -90 ; "when I hear droite" et "s'orienter à 90" ; "when I hear bas" et "s'orienter à 180".](images/finished-code.png)
 
 \--- /collapse ---
 
@@ -61,7 +61,7 @@ Look at the code you have to move the fish up, then see if you can work out the 
 
 \--- task ---
 
-Click the **green flag** and say up, down, left, or right. Check that the fish moves in the direction you expected.
+Clique sur le **drapeau vert** et dis haut, bas, gauche ou droite. Vérifie que le poisson se déplace dans la direction souhaitée.
 
 \--- /task ---
 

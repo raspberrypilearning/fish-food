@@ -1,4 +1,4 @@
-## Background noise
+## Bruit de fond
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,22 +6,22 @@
 </div>
 </html>
 
-First, you will collect samples of background noise. This will help your machine learning model to tell the difference between your voice commands, and the background noise where you are.
+Tout d'abord, tu vas collecter des échantillons de bruit de fond. Cela aidera ton modèle d’apprentissage automatique à faire la différence entre tes commandes vocales et le bruit de fond de ton environnement.
 
 \--- task ---
 
-Click the **+ Add example** button in **background noise**.
+Clique sur le bouton **+ Ajouter un exemple** dans **background noise**.
 
-Click on the microphone but don't say anything to record 2 seconds of background noise.
-![Arrow pointing to microphone button.](images/record-button.png)
+Clique sur le microphone mais ne dis rien pour enregistrer 2 secondes de bruit de fond.
+![Flèche pointant vers le bouton du microphone.](images/record-button.png)
 
-Click the **Add** button to save your recording.
+Clique sur le bouton **Ajouter** pour enregistrer ton enregistrement.
 
 \--- /task ---
 
 \--- task ---
 
-Repeat those steps until you have **at least 8 examples** of background noise.
-![Bucket filled with 8 background noise examples.](images/8-background.png)
+Répète ces étapes jusqu'à ce que tu aies **au moins 8 exemples** de bruit de fond.
+![Élément rempli de 8 exemples de bruit de fond.](images/8-background.png)
 
 \--- /task ---

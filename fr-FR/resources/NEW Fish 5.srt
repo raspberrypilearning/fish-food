@@ -1,64 +1,64 @@
 1
 00:00:05,480 --> 00:00:10,840
-Click on 'Back to project', then click on 'Make'.
+Clique sur « Revenir au projet », puis clique sur « Faire ».
 
 2
 00:00:10,840 --> 00:00:15,400
-You're going to use the model in Scratch 3.
+Tu vas utiliser le modèle dans Scratch 3.
 
 3
 00:00:15,400 --> 00:00:24,280
-Go to 'Project templates' and 
-find the template for Fish Food.
+Va dans « Modèles de projets » et 
+recherche le modèle Fish Food.
 
 4
 00:00:24,280 --> 00:00:26,560
-Some code has been added for you.
+Du code a été ajouté pour toi.
 
 5
 00:00:26,560 --> 00:00:33,000
-Open the menu of special Machine Learning for 
-Kids blocks, and drag a 'when I hear up' block.
+Ouvre le menu des blocs spéciaux Machine Learning for 
+Kids et fais glisser un bloc « when I hear haut ».
 
 6
 00:00:33,000 --> 00:00:40,960
-Now add some code so that when you say 
-the word 'up', the fish moves upwards.
+Ajoute maintenant du code pour que, lorsque tu dis 
+le mot « haut », le poisson se déplace vers le haut.
 
 7
 00:00:40,960 --> 00:00:45,840
-Do the same for down.
+Fais pareil pour bas.
 
 8
 00:00:45,840 --> 00:00:52,960
-Add some code for left and right too.
+Ajoute aussi du code pour gauche et droite.
 
 9
 00:00:52,960 --> 00:00:55,000
-Now it's time to test the model.
+Maintenant, il est temps de tester le modèle.
 
 10
 00:00:55,000 --> 00:00:59,480
-Click the green flag and then say 'up'
+Clique sur le drapeau vert, puis dis « haut »
 
 11
 00:00:59,480 --> 00:00:59,920
-'down'
+« bas »
 
 12
 00:01:01,680 --> 00:01:03,200
-'left'
+« gauche »
 
 13
 00:01:03,200 --> 00:01:04,280
-and 'right'.
+et « droite ».
 
 14
 00:01:04,280 --> 00:01:06,360
-Watch your fish move!
+Regarde ton poisson se déplacer !
 
 15
 00:01:06,360 --> 00:01:13,520
-Use your voice to move the 
-fish and eat the falling food.
+Utilise ta voix pour déplacer le poisson 
+et manger la nourriture qui tombe.
 

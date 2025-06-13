@@ -1,18 +1,18 @@
-## Challenge
+## Défi
 
 \--- challenge ---
 
 \--- task ---
 
-Add a variable to keep track of the score, and add a point each time the fish eats some food.
+Ajoute une variable pour suivre le score et ajoute un point à chaque fois que le poisson mange de la nourriture.
 
 ## --- collapse ---
 
-## title: Show me how
+## title: Montre-moi comment
 
-Add the circled code to the **Food** sprite.
+Ajoute le code entouré au sprite **Nourriture**.
 
-![Scratch code: Set score to 0, show, repeat until y position < -170, change y by -3, if touching fish then change score by 1, hide.](images/score-hint.png)
+![Code de scratch : mettre score à 0, montrer, répéter jusqu'à ce que ordonnée y < -170, ajouter -3 à y, si touche le Poisson alors ajouter 1 à score, cacher.](images/score-hint.png)
 
 \--- /collapse ---
 
@@ -20,19 +20,19 @@ Add the circled code to the **Food** sprite.
 
 \--- task ---
 
-Add a new sprite that is not food, and deduct points if the fish eats it.
+Ajoute un nouveau sprite qui n'est pas de la nourriture, et déduit des points si le poisson le mange.
 
 \--- /task ---
 
 \--- task ---
 
-Make the food fall at different random speeds.
+Fais tomber les aliments à différentes vitesses aléatoires.
 
 \--- /task ---
 
 \--- task ---
 
-Or, if you prefer, make a completely different game that uses voice commands to control a character!
+Ou, si tu préfères, crée un jeu complètement différent qui utilise des commandes vocales pour contrôler un personnage !
 
 \--- /task ---
 

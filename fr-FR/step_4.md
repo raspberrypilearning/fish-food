@@ -1,4 +1,4 @@
-## Record the directions
+## Enregistrer les directions
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,37 +6,37 @@
 </div>
 </html>
 
-Now you will record 8 examples of each word ('up', 'down', 'left', and 'right') so that your machine learning model can learn to recognise them.
+Tu vas maintenant enregistrer 8 exemples pour chaque mot (« haut », « bas », « gauche » et « droite ») pour que ton modèle d’apprentissage automatique puisse apprendre à les reconnaître.
 
 \--- task ---
 
-Click on **+ Add new label** on the top right of the screen and add a label called `left`.
+Clique sur **+ Ajouter une nouvelle étiquette** en haut à droite de l'écran et ajoute une étiquette appelée « gauche ».
 
 \--- /task ---
 
 \--- task ---
 
-Click on **+ Add example** inside the box for the new `left` label, and record yourself saying "left".
+Clique sur **+ Ajouter un exemple** dans la case pour la nouvelle étiquette « gauche », et enregistre-toi en disant « gauche ».
 
-Repeat until you have recorded **at least 8 examples**.
-
-\--- /task ---
-
-\--- task ---
-
-**+ Add new label** to create another label called `right` and record 8 examples of you saying "right".
+Répète jusqu'à ce que tu aies enregistré **au moins 8 exemples**.
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `up` and record 8 examples of you saying "up".
+**+ Ajoute une nouvelle étiquette** pour créer une autre étiquette appelée « droite » et enregistre 8 exemples où tu dis « droite ».
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `down` and record 8 examples of you saying "down".
+**+ Ajoute une nouvelle étiquette** pour créer une autre étiquette appelée « haut » et enregistre 8 exemples où tu dis « haut ».
+
+\--- /task ---
+
+\--- task ---
+
+**+ Ajoute une nouvelle étiquette** pour créer une autre étiquette appelée « bas » et enregistre 8 exemples où tu dis « bas ».
 
 \--- /task ---
 

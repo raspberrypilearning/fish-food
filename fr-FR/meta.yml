@@ -1,23 +1,23 @@
-title: Fish food
+title: Nourriture pour poissons
 hero_image: images/banner.png
-description: Control a fish using only your voice and direct it to the food
+description: Contrôle un poisson en utilisant uniquement ta voix et dirige-le vers la nourriture
 version: 1
 listed: true
 copyedit: false
 last_tested: "2024-06-04"
 steps:
-  - title: What you will make
-  - title: Set up the project
+  - title: Ce que tu vas faire
+  - title: Configurer le projet
     completion:
     - engaged
-  - title: Background noise
-  - title: Record the directions
-  - title: Train the model
-  - title: Move the fish
+  - title: Bruit de fond
+  - title: Enregistrer les directions
+  - title: Entraîner le modèle
+  - title: Déplacer le poisson
     completion:
     - internal
-  - title: Challenge
+  - title: Défi
     challenge: true
-  - title: What can you do now?
+  - title: Que peux-tu faire maintenant ?
     completion:
     - external

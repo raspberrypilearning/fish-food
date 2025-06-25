@@ -1,0 +1,29 @@
+1
+00:00:03,760 --> 00:00:07,480
+Va sur rpf.io/ml4k
+
+2
+00:00:07,480 --> 00:00:10,920
+Clique sur « Démarrez », puis sur « Essayer maintenant ».
+
+3
+00:00:10,920 --> 00:00:16,560
+Ajoute un nouveau projet, appelle-le « Nourriture pour poissons », 
+et configure-le pour qu'il apprenne à reconnaître les sons.
+
+4
+00:00:16,560 --> 00:00:19,440
+Stocke les données dans ton navigateur web.
+
+5
+00:00:19,440 --> 00:00:21,520
+Clique sur le nom du projet,
+
+6
+00:00:21,520 --> 00:00:23,160
+puis clique sur « Entraîner ».
+
+7
+00:00:23,160 --> 00:00:29,640
+Autorise l’accès au microphone si on te le demande.
+

@@ -1,0 +1,64 @@
+1
+00:00:05,480 --> 00:00:10,840
+Klik op 'Terug naar project' en klik vervolgens op 'Maak'.
+
+2
+00:00:10,840 --> 00:00:15,400
+Je gaat het model gebruiken in Scratch 3.
+
+3
+00:00:15,400 --> 00:00:24,280
+Ga naar 'Projectsjablonen' en zoek
+het sjabloon voor Fish Food.
+
+4
+00:00:24,280 --> 00:00:26,560
+Er is al wat code voor je toegevoegd.
+
+5
+00:00:26,560 --> 00:00:33,000
+Open het menu van de speciale Machine Learning for
+Kids-blokken en sleep een blok 'when I hear omhoog'.
+
+6
+00:00:33,000 --> 00:00:40,960
+Voeg nu wat code toe, zodat wanneer je
+het woord 'omhoog' zegt, de vis naar boven beweegt.
+
+7
+00:00:40,960 --> 00:00:45,840
+Doe hetzelfde voor omlaag.
+
+8
+00:00:45,840 --> 00:00:52,960
+Voeg ook wat code toe voor links en rechts.
+
+9
+00:00:52,960 --> 00:00:55,000
+Nu is het tijd om het model te testen.
+
+10
+00:00:55,000 --> 00:00:59,480
+Klik op de groene vlag en zeg dan 'omhoog'
+
+11
+00:00:59,480 --> 00:00:59,920
+'omlaag'
+
+12
+00:01:01,680 --> 00:01:03,200
+'links'
+
+13
+00:01:03,200 --> 00:01:04,280
+en 'rechts'.
+
+14
+00:01:04,280 --> 00:01:06,360
+Kijk hoe je vis beweegt!
+
+15
+00:01:06,360 --> 00:01:13,520
+Gebruik je stem om de
+vis te verplaatsen en het vallende voedsel op te eten.
+

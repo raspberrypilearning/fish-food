@@ -1,0 +1,64 @@
+1
+00:00:05,480 --> 00:00:10,840
+Clique sur « Revenir au projet », puis clique sur « Faire ».
+
+2
+00:00:10,840 --> 00:00:15,400
+Tu vas utiliser le modèle dans Scratch 3.
+
+3
+00:00:15,400 --> 00:00:24,280
+Va dans « Modèles de projets » et 
+recherche le modèle Fish Food.
+
+4
+00:00:24,280 --> 00:00:26,560
+Du code a été ajouté pour toi.
+
+5
+00:00:26,560 --> 00:00:33,000
+Ouvre le menu des blocs spéciaux Machine Learning for 
+Kids et fais glisser un bloc « when I hear haut ».
+
+6
+00:00:33,000 --> 00:00:40,960
+Ajoute maintenant du code pour que, lorsque tu dis 
+le mot « haut », le poisson se déplace vers le haut.
+
+7
+00:00:40,960 --> 00:00:45,840
+Fais pareil pour bas.
+
+8
+00:00:45,840 --> 00:00:52,960
+Ajoute aussi du code pour gauche et droite.
+
+9
+00:00:52,960 --> 00:00:55,000
+Maintenant, il est temps de tester le modèle.
+
+10
+00:00:55,000 --> 00:00:59,480
+Clique sur le drapeau vert, puis dis « haut »
+
+11
+00:00:59,480 --> 00:00:59,920
+« bas »
+
+12
+00:01:01,680 --> 00:01:03,200
+« gauche »
+
+13
+00:01:03,200 --> 00:01:04,280
+et « droite ».
+
+14
+00:01:04,280 --> 00:01:06,360
+Regarde ton poisson se déplacer !
+
+15
+00:01:06,360 --> 00:01:13,520
+Utilise ta voix pour déplacer le poisson 
+et manger la nourriture qui tombe.
+

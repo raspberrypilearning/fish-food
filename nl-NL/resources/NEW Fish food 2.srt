@@ -1,0 +1,12 @@
+1
+00:00:04,560 --> 00:00:06,960
+Voeg nu een voorbeeld van achtergrondgeluid toe
+
+2
+00:00:06,960 --> 00:00:11,680
+- zeg dus niets als je opneemt.
+
+3
+00:00:11,680 --> 00:00:20,160
+Je hebt acht voorbeelden nodig.
+

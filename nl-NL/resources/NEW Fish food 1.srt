@@ -1,0 +1,29 @@
+1
+00:00:03,760 --> 00:00:07,480
+Ga naar rpf.io/ml4k
+
+2
+00:00:07,480 --> 00:00:10,920
+Klik op 'Aan de slag' en vervolgens op 'Probeer het nu'.
+
+3
+00:00:10,920 --> 00:00:16,560
+Voeg een nieuw project toe, noem het 'Visvoer',
+en stel het in om geluiden te leren herkennen.
+
+4
+00:00:16,560 --> 00:00:19,440
+Sla de gegevens op in jouw webbrowser.
+
+5
+00:00:19,440 --> 00:00:21,520
+Klik op de naam van het project,
+
+6
+00:00:21,520 --> 00:00:23,160
+klik vervolgens op 'Train'.
+
+7
+00:00:23,160 --> 00:00:29,640
+Geef toestemming voor toegang tot de microfoon als daarom gevraagd wordt.
+

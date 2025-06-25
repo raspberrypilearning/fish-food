@@ -1,0 +1,24 @@
+1
+00:00:04,280 --> 00:00:09,120
+Klik op 'Terug naar project', 
+en klik vervolgens op 'Leer & Test'.
+
+2
+00:00:09,120 --> 00:00:16,520
+Train je nieuwe machine learning 
+model - dit kan een paar minuten duren.
+
+3
+00:00:16,520 --> 00:00:19,720
+Klik op **Start listening** en zeg dan 'links'.
+
+4
+00:00:19,720 --> 00:00:23,360
+Test of het model
+herkent dat je 'links' zegt.
+
+5
+00:00:23,360 --> 00:00:29,960
+Controleer ook of het model
+'rechts', 'omhoog' en 'omlaag' herkent.
+

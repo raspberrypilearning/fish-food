@@ -1,4 +1,4 @@
-## Record the directions
+## Neem de aanwijzingen op
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,37 +6,37 @@
 </div>
 </html>
 
-Now you will record 8 examples of each word ('up', 'down', 'left', and 'right') so that your machine learning model can learn to recognise them.
+Nu ga je 8 voorbeelden van elk woord vastleggen ('omhoog', 'omlaag', 'links' en 'rechts'), zodat jouw machine learning-model deze kan leren herkennen.
 
 \--- task ---
 
-Click on **+ Add new label** on the top right of the screen and add a label called `left`.
+Klik rechtsboven in het scherm op **+ Voeg een nieuw label toe** en voeg een label toe met de naam `links`.
 
 \--- /task ---
 
 \--- task ---
 
-Click on **+ Add example** inside the box for the new `left` label, and record yourself saying "left".
+Klik op **+ Voeg een voorbeeld toe** in het vak voor het nieuwe 'links' label en neem jezelf op terwijl je "links" zegt.
 
-Repeat until you have recorded **at least 8 examples**.
-
-\--- /task ---
-
-\--- task ---
-
-**+ Add new label** to create another label called `right` and record 8 examples of you saying "right".
+Herhaal dit totdat je **minstens 8 voorbeelden** hebt opgenomen.
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `up` and record 8 examples of you saying "up".
+**+ Voeg een nieuw label toe** om een ander label te maken met de naam `rechts` en neem 8 voorbeelden op waarin jij "rechts" zegt.
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `down` and record 8 examples of you saying "down".
+**+ Voeg nieuw label toe** om nog een label te maken met de naam `omhoog` en neem 8 voorbeelden op waarin je "omhoog" zegt.
+
+\--- /task ---
+
+\--- task ---
+
+**+ Voeg nieuw label toe** om nog een label te maken met de naam 'omlaag' en neem 8 voorbeelden op waarin je "omlaag" zegt.
 
 \--- /task ---
 

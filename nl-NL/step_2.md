@@ -21,7 +21,7 @@ Klik op **Projecten** in de menubalk bovenaan.
 Klik op de knop **+ Voeg een nieuw project toe**.
 
 Geef je project de naam 'Visvoer' en geef het de opdracht om **geluiden (sounds)** te herkennen en gegevens **in je webbrowser (in your webbrowser)** op te slaan. Klik vervolgens op **Creëer**.
-![Een project maken](images/create-project-annotated.png)
+![Een project maken](images/create-project.png)
 
 Je zou nu 'Visvoer' moeten zien in de projectenlijst. Klik op dit project.
 ![Projectlijst met visvoer vermeld.](images/projects-list.png)

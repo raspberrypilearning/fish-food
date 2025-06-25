@@ -1,18 +1,18 @@
-## Challenge
+## Uitdaging
 
 \--- challenge ---
 
 \--- task ---
 
-Add a variable to keep track of the score, and add a point each time the fish eats some food.
+Voeg een variabele toe om de score bij te houden en voeg een punt toe telkens wanneer de vis iets eet van het voer.
 
 ## --- collapse ---
 
-## title: Show me how
+## title: Laat me zien hoe ik het moet doen
 
-Add the circled code to the **Food** sprite.
+Voeg de omcirkelde code toe aan de sprite **Voer**.
 
-![Scratch code: Set score to 0, show, repeat until y position < -170, change y by -3, if touching fish then change score by 1, hide.](images/score-hint.png)
+![Scratch code: Stel score in op 0, verschijn, herhaal tot y positie < -170, verander y met -3, als het de vis aanraakt, verander de score met 1, verdwijn. (images/score-hint.png)
 
 \--- /collapse ---
 
@@ -20,19 +20,19 @@ Add the circled code to the **Food** sprite.
 
 \--- task ---
 
-Add a new sprite that is not food, and deduct points if the fish eats it.
+Voeg een nieuwe sprite toe die geen voer is, en trek punten af als de vis deze opeet.
 
 \--- /task ---
 
 \--- task ---
 
-Make the food fall at different random speeds.
+Laat het eten met verschillende, willekeurige snelheden vallen.
 
 \--- /task ---
 
 \--- task ---
 
-Or, if you prefer, make a completely different game that uses voice commands to control a character!
+Of maak, als je dat liever hebt, een compleet ander spel waarbij je een personage bestuurt met spraakcommando's!
 
 \--- /task ---
 

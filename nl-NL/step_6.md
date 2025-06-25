@@ -1,4 +1,4 @@
-## Move the fish
+## Verplaats de vis
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,54 +6,54 @@
 </div>
 </html>
 
-Now that your model can distinguish between words, you can use it in a Scratch program to move a fish around the screen.
+Nu je model verschillende woorden kan onderscheiden, kun je het gebruiken in een Scratch-programma om een vis over het scherm te verplaatsen.
 
 \--- task ---
 
-Click on the **< Back to project** link.
+Klik op de link **< Terug naar project**.
 
-Click on **Make**.
+Klik op **Maak**.
 
-Click on **Scratch 3**.
+Klik op **Scratch 3**.
 
-Click on **Open in Scratch 3**.
+Klik op **Open in Scratch 3**.
 
 \--- /task ---
 
 \--- task ---
 
-Click on **Project templates** at the top and select the 'Fish food' project to load the fish sprite, which has some code already added to it.
+Klik bovenaan op **Projectsjablonen** en selecteer het project 'Fish food' om de vissprite te laden, waaraan al wat code is toegevoegd.
 
 \--- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Machine Learning for Kids heeft een paar speciale blokken aan Scratch toegevoegd om het model dat je net hebt getraind te kunnen gebruiken. Je vindt ze onderaan de lijst met blokken.
 
-![A list of new blocks created by Machine Learning for Kids, including instructions such as 'Start listening', 'Stop listening', and 'When I hear left'.](images/new-blocks.png)
-
-\--- task ---
-
-With the **fish** sprite selected, click on the **Code** tab. Find the right place in the code and add a special block to tell the model to start listening.
-
-![In the fish sprite, a 'start listening' block is added after the 'when flag clicked' block.](images/start-listening.png)
-
-\--- /task ---
+![Een lijst met nieuwe blokken die zijn gemaakt door Machine Learning for Kids, inclusief instructies zoals 'Start listening', 'Stop listening' en 'When I hear omhoog'.](images/new-blocks.png)
 
 \--- task ---
 
-Add the code for 'up' to the **Fish** sprite.
-![In the fish sprite, a 'when I hear up' block is added, then a 'point in direction 0' block.](images/starter-code.png)
+Selecteer de **vis**-sprite en klik op het tabblad **Code**. Zoek de juiste plaats in de code en voeg een speciaal blok toe om het model te vertellen om te beginnen met luisteren.
+
+![In de vissprite wordt een 'start listening'-blok toegevoegd na het 'wanneer op de vlag wordt geklikt'-blok.](images/start-listening.png)
 
 \--- /task ---
 
 \--- task ---
 
-Look at the code you have to move the fish up, then see if you can work out the code for down, left, and right.
+Voeg de code voor 'omhoog' toe aan de sprite **Vis**.
+![In de vissprite wordt een 'als ik omhoog hoor'-blok toegevoegd, en vervolgens een 'richt naar 0'-blok.](images/starter-code.png)
+
+\--- /task ---
+
+\--- task ---
+
+Kijk naar de code die je de vis omhoog moet laten bewegen, en kijk dan of je zelf de code kunt bedenken voor omlaag, links en rechts.
 
 ## --- collapse ---
 
-## title: Show me how
+## title: Laat me zien hoe ik het moet doen
 
-![Three more pairs of blocks are added: 'When I hear left' and 'point in direction -90'; 'When I hear right' and 'point in direction 90'; 'When I hear down' and 'point in direction 180'.](images/finished-code.png)
+![Er worden nog drie paren blokken toegevoegd: 'Als ik links hoor' en 'richt naar -90'; 'Als ik rechts hoor' en 'richt naar 90'; 'Als ik omlaag hoor' en 'richt naar 180'.](images/finished-code.png)
 
 \--- /collapse ---
 
@@ -61,7 +61,7 @@ Look at the code you have to move the fish up, then see if you can work out the 
 
 \--- task ---
 
-Click the **green flag** and say up, down, left, or right. Check that the fish moves in the direction you expected.
+Klik op de **groene vlag** en zeg omhoog, omlaag, links of rechts. Controleer of de vis in de richting zwemt die je had verwacht.
 
 \--- /task ---
 

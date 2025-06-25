@@ -1,64 +1,64 @@
 1
 00:00:05,480 --> 00:00:10,840
-Click on 'Back to project', then click on 'Make'.
+Klik op 'Terug naar project' en klik vervolgens op 'Maak'.
 
 2
 00:00:10,840 --> 00:00:15,400
-You're going to use the model in Scratch 3.
+Je gaat het model gebruiken in Scratch 3.
 
 3
 00:00:15,400 --> 00:00:24,280
-Go to 'Project templates' and 
-find the template for Fish Food.
+Ga naar 'Projectsjablonen' en zoek
+het sjabloon voor Fish Food.
 
 4
 00:00:24,280 --> 00:00:26,560
-Some code has been added for you.
+Er is al wat code voor je toegevoegd.
 
 5
 00:00:26,560 --> 00:00:33,000
-Open the menu of special Machine Learning for 
-Kids blocks, and drag a 'when I hear up' block.
+Open het menu van de speciale Machine Learning for
+Kids-blokken en sleep een blok 'when I hear omhoog'.
 
 6
 00:00:33,000 --> 00:00:40,960
-Now add some code so that when you say 
-the word 'up', the fish moves upwards.
+Voeg nu wat code toe, zodat wanneer je
+het woord 'omhoog' zegt, de vis naar boven beweegt.
 
 7
 00:00:40,960 --> 00:00:45,840
-Do the same for down.
+Doe hetzelfde voor omlaag.
 
 8
 00:00:45,840 --> 00:00:52,960
-Add some code for left and right too.
+Voeg ook wat code toe voor links en rechts.
 
 9
 00:00:52,960 --> 00:00:55,000
-Now it's time to test the model.
+Nu is het tijd om het model te testen.
 
 10
 00:00:55,000 --> 00:00:59,480
-Click the green flag and then say 'up'
+Klik op de groene vlag en zeg dan 'omhoog'
 
 11
 00:00:59,480 --> 00:00:59,920
-'down'
+'omlaag'
 
 12
 00:01:01,680 --> 00:01:03,200
-'left'
+'links'
 
 13
 00:01:03,200 --> 00:01:04,280
-and 'right'.
+en 'rechts'.
 
 14
 00:01:04,280 --> 00:01:06,360
-Watch your fish move!
+Kijk hoe je vis beweegt!
 
 15
 00:01:06,360 --> 00:01:13,520
-Use your voice to move the 
-fish and eat the falling food.
+Gebruik je stem om de
+vis te verplaatsen en het vallende voedsel op te eten.
 

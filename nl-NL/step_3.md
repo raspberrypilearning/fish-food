@@ -1,4 +1,4 @@
-## Background noise
+## Achtergrondgeluid
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,22 +6,22 @@
 </div>
 </html>
 
-First, you will collect samples of background noise. This will help your machine learning model to tell the difference between your voice commands, and the background noise where you are.
+Eerst verzamel je voorbeelden van achtergrondgeluiden. Dit zal je machine learning model helpen om het verschil te weten tussen je spraakcommando's en het achtergrondgeluid van de plek waar je bent.
 
 \--- task ---
 
-Click the **+ Add example** button in **background noise**.
+Klik op de **+ voeg een voorbeeld toe** knop in **background noise**.
 
-Click on the microphone but don't say anything to record 2 seconds of background noise.
-![Arrow pointing to microphone button.](images/record-button.png)
+Klik op de microfoon, maar zeg niets om 2 seconden achtergrondgeluid op te nemen.
+![Pijl die naar de microfoonknop wijst.](images/record-button.png)
 
-Click the **Add** button to save your recording.
+Klik op de knop **VOEG TOE** om jouw opname op te slaan.
 
 \--- /task ---
 
 \--- task ---
 
-Repeat those steps until you have **at least 8 examples** of background noise.
-![Bucket filled with 8 background noise examples.](images/8-background.png)
+Herhaal deze stappen totdat je **minstens 8 voorbeelden** van achtergrondgeluiden hebt.
+![Container gevuld met 8 achtergrondgeluidsvoorbeelden.](images/8-background.png)
 
 \--- /task ---

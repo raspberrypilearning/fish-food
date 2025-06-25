@@ -1,12 +1,12 @@
 1
 00:00:04,560 --> 00:00:06,960
-Now, add an example of background noise
+Voeg nu een voorbeeld van achtergrondgeluid toe
 
 2
 00:00:06,960 --> 00:00:11,680
-- so don't say anything when you record.
+- zeg dus niets als je opneemt.
 
 3
 00:00:11,680 --> 00:00:20,160
-You're going to need eight examples.
+Je hebt acht voorbeelden nodig.
 

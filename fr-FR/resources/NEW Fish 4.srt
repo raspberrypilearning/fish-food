@@ -1,0 +1,24 @@
+1
+00:00:04,280 --> 00:00:09,120
+Clique sur « Revenir au projet », 
+puis clique sur « Apprendre & Tester ».
+
+2
+00:00:09,120 --> 00:00:16,520
+Entraîne ton nouveau modèle d'apprentissage 
+automatique, cela peut prendre quelques minutes.
+
+3
+00:00:16,520 --> 00:00:19,720
+Clique sur « Commencez à écouter » et dis « gauche ».
+
+4
+00:00:19,720 --> 00:00:23,360
+Teste si le modèle 
+reconnaît que tu dis « gauche ».
+
+5
+00:00:23,360 --> 00:00:29,960
+Vérifie aussi si le modèle 
+reconnaît « droite », « haut » et « bas ».
+

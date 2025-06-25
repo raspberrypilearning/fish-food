@@ -1,0 +1,41 @@
+1
+00:00:00,400 --> 00:00:05,080
+Nu is het tijd om trainingsvoorbeelden 
+toe te voegen voor je daadwerkelijke opdrachten.
+
+2
+00:00:05,080 --> 00:00:09,840
+Eerst ga je een label toevoegen met de naam 'links'.
+
+3
+00:00:09,840 --> 00:00:14,800
+Maak nu een opname terwijl je het woord 'links' zegt.
+
+4
+00:00:14,800 --> 00:00:21,400
+Herhaal dit totdat je
+acht verschillende voorbeelden hebt.
+
+5
+00:00:21,400 --> 00:00:27,280
+Doe dan hetzelfde voor rechts.
+
+6
+00:00:27,280 --> 00:00:29,960
+En je gaat daar ook
+acht voorbeelden aan toevoegen.
+
+7
+00:00:34,360 --> 00:00:41,880
+En dan omhoog en omlaag, voeg acht
+voorbeelden toe van het woord 'omhoog'
+
+8
+00:00:41,880 --> 00:00:43,280
+en het woord 'omlaag'.
+
+9
+00:00:43,280 --> 00:00:54,400
+Je voegt er acht toe zodat er
+genoeg data is om je model mee te trainen.
+

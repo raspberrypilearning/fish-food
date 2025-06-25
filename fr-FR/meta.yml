@@ -1,0 +1,24 @@
+---
+title: Nourriture pour poissons
+hero_image: images/banner.png
+description: Contrôle un poisson en utilisant uniquement ta voix et dirige-le vers la nourriture
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-04"
+steps:
+  - title: Ce que tu vas faire
+  - title: Configurer le projet
+    completion:
+    - engaged
+  - title: Bruit de fond
+  - title: Enregistrer les directions
+  - title: Entraîner le modèle
+  - title: Déplacer le poisson
+    completion:
+    - internal
+  - title: Défi
+    challenge: true
+  - title: Que peux-tu faire maintenant ?
+    completion:
+    - external

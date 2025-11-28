@@ -1,3 +1,14 @@
 ## Що робити далі?
 
-У напрямі [«Машинне навчання і Scratch»](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) є багато інших проєктів про машинне навчання та ШІ.
+У напрямі [«Машинне навчання і Scratch»](https://projects.raspberrypi.org/uk-UA/pathways/scratch-machine-learning) є багато інших проєктів про машинне навчання та ШІ.
+
+***
+Цей проєкт переклали волонтери:
+
+[name]
+
+[name]
+
+[name]
+
+Завдяки волонтерам ми надаємо можливість людям у всьому світі навчатися рідною мовою. Ви також можете допомогти нам у цьому — більше інформації про волонтерську програму на [rpf.io/translate](https://rpf.io/translate).

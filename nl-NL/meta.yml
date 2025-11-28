@@ -10,14 +10,14 @@ steps:
   - title: Wat ga je maken
   - title: Het project opzetten
     completion:
-    - engaged
+      - engaged
   - title: Achtergrondgeluid
   - title: Neem de aanwijzingen op
   - title: Train het model
   - title: Verplaats de vis
     completion:
-    - internal
+      - internal
   - title: Uitdaging
     challenge: true
     completion:
-    - external
+      - external

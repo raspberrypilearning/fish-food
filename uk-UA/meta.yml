@@ -1,0 +1,23 @@
+---
+title: Їжа для рибок
+hero_image: images/banner.png
+description: Керуй рибкою за допомогою голосу й спрямовуй її до корму
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-04"
+steps:
+  - title: Що ти зробиш
+  - title: Створи проєкт
+    completion:
+      - engaged
+  - title: Фоновий шум
+  - title: Запиши вказівки
+  - title: Натренуй модель
+  - title: Перемісти рибку
+    completion:
+      - internal
+  - title: Додаткове завдання
+    challenge: true
+    completion:
+      - external

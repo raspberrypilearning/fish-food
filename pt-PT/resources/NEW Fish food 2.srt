@@ -1,0 +1,12 @@
+1
+00:00:04,560 --> 00:00:06,960
+Agora, adiciona um exemplo de ruído de fundo
+
+2
+00:00:06,960 --> 00:00:11,680
+- por isso não digas nada quando estiveres a gravar.
+
+3
+00:00:11,680 --> 00:00:20,160
+Vais precisar de oito exemplos.
+

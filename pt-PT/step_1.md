@@ -10,7 +10,7 @@ Vais precisar de um **microfone**.
 
 ---
 
-## title: Onde ficam guardados os meus comandos de voz?
+title: Onde ficam guardados os meus comandos de voz?
 
 - Este projeto usa uma tecnologia chamada "machine learning". Os sistemas de machine learning são treinados com uma grande quantidade de dados.
 - Este projeto não exige que cries uma conta ou faças login. Para este projeto, os exemplos que usas para fazer o modelo são armazenados temporariamente no teu navegador (apenas na tua máquina).

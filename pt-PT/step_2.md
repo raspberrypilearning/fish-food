@@ -6,15 +6,15 @@
 </div>
 </html>
 
-\--- task ---
+--- task ---
 
 Vai para [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} num navegador web.
 
 Clica em **Experimenta agora**.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 Clica em **Projetos** na barra do menu na parte superior.
 
@@ -26,9 +26,9 @@ Dá nome ao teu projeto `Comida para peixe` e configura-o para aprender a reconh
 Deves ver agora "Comida para peixe" na lista de projetos. Clica em cima do projeto.
 ![Lista de projetos com Comida para peixe listada.](images/projects-list.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 Clica no botão **Treinar**.
 ![Menu principal do projeto com uma seta a apontar para o botão Treinar.](images/project-train.png)
@@ -37,7 +37,7 @@ Se vires uma mensagem pop-up a solicitar a utilização do microfone, clica em *
 
 ![Mensagem pop-up a solicitar permissão para utilização do microfone.](images/allow-microphone.png)
 
-\--- /task ---
+--- /task ---
 
 
 

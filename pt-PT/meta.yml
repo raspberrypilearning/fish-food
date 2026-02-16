@@ -1,3 +1,4 @@
+---
 title: Comida para peixe
 hero_image: images/banner.png
 description: Controla o peixe ao usar apenas a tua voz e encaminha-o para a comida
@@ -9,14 +10,14 @@ steps:
   - title: O que vais fazer
   - title: Cria o teu projeto
     completion:
-    - engaged
+      - engaged
   - title: Ruído de fundo
   - title: Grava as direções
   - title: Treina o modelo
   - title: Move o peixe
     completion:
-    - internal
+      - internal
   - title: Desafio
     challenge: true
     completion:
-    - externo
+      - externo

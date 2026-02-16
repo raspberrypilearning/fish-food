@@ -8,7 +8,7 @@
 
 Agora que o teu modelo consegue distinguir as palavras, podes usá-lo no programa Scratch para movimentar o peixe pelo ecrã.
 
-\--- task ---
+--- task ---
 
 Clica no link **< Voltar para o projeto**.
 
@@ -18,52 +18,53 @@ Clica em **Scratch 3**.
 
 Clica em **Abrir no Scratch 3**.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 Clica em **Project templates** na parte superior e seleciona o projeto "Fish Food" para carregar o ator peixe, que já contém algum código adicionado.
 
-\--- /task ---
+--- /task ---
 
 Machine learning for Kids adicionou alguns blocos especiais ao Scratch para permitir que utilizes o modelo que acabaste de treinar. Encontra-os na última parte da lista de blocos.
 
 ![Uma lista de novos blocos criados pelo Machine Learning for Kids, incluindo instruções como "Começar a ouvir", "Parar de ouvir" e "Quando ouvires esquerda".](images/new-blocks.png)
 
-\--- task ---
+--- task ---
 
 Com o ator **peixe** selecionado, clica no separador **Código**. Encontra o lugar certo no teu código e adiciona um bloco especial para dizer ao modelo para começar a ouvir.
 
 ![No ator peixe, é adicionado um bloco 'começar a ouvir' após o bloco 'quando alguém clicar em bandeira'.](images/start-listening.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 Adiciona o código de "para cima" ao ator **Peixe**.
 ![No ator peixe, é adicionado um bloco "quando ouvires para cima", depois um bloco "apontar na direção 0".](images/starter-code.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 Observa o código que tens para movimentar o peixe para cima e tenta decifrar o código para movimentar para baixo, esquerda e direita.
 
-## --- collapse ---
-
-## title: Mostra-me como
+--- collapse ---
+---
+title: Mostra-me como
+---
 
 ![Mais três pares de blocos são adicionados: "Quando ouvires esquerda" e "apontar na direção -90"; "Quando ouvires direita" e "apontar na direção 90"; "Quando ouvir para baixo" e "apontar na direção 180".](images/finished-code.png)
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 Clica na **bandeira verde** e diz para cima, para baixo, esquerda ou direita. Verifica se o peixe se movimenta na direção esperada.
 
-\--- /task ---
+--- /task ---
 
 
 

@@ -1,0 +1,24 @@
+1
+00:00:04,280 --> 00:00:09,120
+Clica em "Voltar para o projeto", 
+depois clica em "Aprender & Testar".
+
+2
+00:00:09,120 --> 00:00:16,520
+Treina o teu novo modelo de
+machine learning - pode demorar alguns minutos.
+
+3
+00:00:16,520 --> 00:00:19,720
+Clica em "Começar a ouvir" e depois diz "esquerda".
+
+4
+00:00:19,720 --> 00:00:23,360
+Testa se o modelo te
+reconhece a dizer "esquerda".
+
+5
+00:00:23,360 --> 00:00:29,960
+Verifica também se o modelo
+reconhece "direita", "para cima" e "para baixo".
+

@@ -10,14 +10,14 @@ steps:
   - title: Τι θα φτιάξεις
   - title: Ρύθμιση του έργου
     completion:
-      - engaged
+    - engaged
   - title: Background noise (Θόρυβος περιβάλλοντος)
   - title: Καταγραφή κατευθύνσεων
   - title: Εκπαίδευση του μοντέλου
   - title: Μετακίνηση του ψαριού
     completion:
-      - internal
+    - internal
   - title: Πρόκληση
     challenge: true
     completion:
-      - external
+    - external

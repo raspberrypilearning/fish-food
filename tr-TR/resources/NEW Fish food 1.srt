@@ -1,0 +1,29 @@
+1
+00:00:03,760 --> 00:00:07,480
+rpf.io/ml4k adresine gidin
+
+2
+00:00:07,480 --> 00:00:10,920
+'Başla'ya, ardından 'Şimdi dene'ye tıklayın.
+
+3
+00:00:10,920 --> 00:00:16,560
+Yeni bir proje ekleyin, adını 'Balık yemi' koyun, 
+ve sesleri tanımayı öğrenmesi için ayarlayın.
+
+4
+00:00:16,560 --> 00:00:19,440
+Verileri web tarayıcınızda saklayın.
+
+5
+00:00:19,440 --> 00:00:21,520
+Projenin adına tıklayın,
+
+6
+00:00:21,520 --> 00:00:23,160
+ardından 'Eğit'e tıklayın.
+
+7
+00:00:23,160 --> 00:00:29,640
+İstendiği takdirde mikrofon erişimine izin verin.
+

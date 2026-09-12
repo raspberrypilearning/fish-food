@@ -1,0 +1,22 @@
+1
+00:00:04,280 --> 00:00:09,120
+'Projeye geri dön' seçeneğine tıklayın, 
+ardından 'Öğren ve Test Et' seçeneğine tıklayın.
+
+2
+00:00:09,120 --> 00:00:16,520
+Yeni makine öğrenimi modelinizi eğitin - bu  işlem birkaç dakika sürebilir.
+
+3
+00:00:16,520 --> 00:00:19,720
+'Dinlemeye başla'ya tıklayın ve ardından 'sol' deyin.
+
+4
+00:00:19,720 --> 00:00:23,360
+Modelin 'sol' dediğinizi algılayıp 
+algılamadığını test edin.
+
+5
+00:00:23,360 --> 00:00:29,960
+Ayrıca modelin sağ', 'yukarı' ve 'aşağı'yı tanıyıp  tanımadığını da kontrol edin.
+

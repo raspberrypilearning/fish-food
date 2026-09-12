@@ -1,0 +1,22 @@
+title: Fischfutter
+hero_image: images/banner.png
+description: Steuere einen Fisch mit deiner Stimme allein und leite ihn zum Futter
+version: 1
+listed: true
+copyedit: false
+last_tested: "2024-06-04"
+steps:
+  - title: Das wirst du machen
+  - title: Projekt einrichten
+    completion:
+    - engaged
+  - title: Hintergrundgeräusche
+  - title: Nimm the Anweisungen auf
+  - title: Modell trainieren
+  - title: Bewege den Fisch
+    completion:
+    - internal
+  - title: Herausforderung
+    challenge: true
+    completion:
+    - extern

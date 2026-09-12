@@ -1,0 +1,37 @@
+1
+00:00:00,400 --> 00:00:05,080
+Şimdi sıra, gerçek komutlarınız için eğitim  örnekleri eklemeye geldi.
+
+2
+00:00:05,080 --> 00:00:09,840
+Öncelikle, "sol" adında bir etiket ekleyeceksiniz.
+
+3
+00:00:09,840 --> 00:00:14,800
+Şimdi 'sol' kelimesini söylerken kendinizi kaydedin.
+
+4
+00:00:14,800 --> 00:00:21,400
+Ardından sekiz farklı örnek elde edene kadar  tekrarlayın.
+
+5
+00:00:21,400 --> 00:00:27,280
+Ardından aynı işlemi sağ taraf için de yapın.
+
+6
+00:00:27,280 --> 00:00:29,960
+Ve buna da sekiz örnek  
+ekleyeceksiniz.
+
+7
+00:00:34,360 --> 00:00:41,880
+Sonra yukarı ve aşağı, 'yukarı' kelimesini  söylediğiniz sekiz örnek ekleyin,
+
+8
+00:00:41,880 --> 00:00:43,280
+ardından 'aşağı' kelimesini.
+
+9
+00:00:43,280 --> 00:00:54,400
+Sekiz tane ekliyorsunuz, bu modelinizi  eğitmek için yeterli veri olduğu anlamına gelir.
+

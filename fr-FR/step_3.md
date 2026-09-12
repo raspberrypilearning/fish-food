@@ -8,7 +8,7 @@
 
 Tout d'abord, tu vas collecter des échantillons de bruit de fond. Cela aidera ton modèle d’apprentissage automatique à faire la différence entre tes commandes vocales et le bruit de fond de ton environnement.
 
---- task ---
+\--- task ---
 
 Clique sur le bouton **+ Ajouter un exemple** dans **background noise**.
 
@@ -17,11 +17,11 @@ Clique sur le microphone mais ne dis rien pour enregistrer 2 secondes de bruit 
 
 Clique sur le bouton **Ajouter** pour enregistrer ton enregistrement.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Répète ces étapes jusqu'à ce que tu aies **au moins 8 exemples** de bruit de fond.
 ![Élément rempli de 8 exemples de bruit de fond.](images/8-background.png)
 
---- /task ---
+\--- /task ---

@@ -1,0 +1,29 @@
+1
+00:00:03,760 --> 00:00:07,480
+Gehe zu rpf.io/ml4k
+
+2
+00:00:07,480 --> 00:00:10,920
+Klicke auf 'Los geht', dann 'Teste es jetzt'.
+
+3
+00:00:10,920 --> 00:00:16,560
+Füge ein neues Projekt hinzu, nenne es 'Fischfutter',
+und stelle ein, dass es Geräusche erkennen lernt.
+
+4
+00:00:16,560 --> 00:00:19,440
+Speichere Daten in deinem Webbrowser.
+
+5
+00:00:19,440 --> 00:00:21,520
+Klicke auf den Namen des Projekts,
+
+6
+00:00:21,520 --> 00:00:23,160
+dann klicke auf 'Trainieren'.
+
+7
+00:00:23,160 --> 00:00:29,640
+Erlaube den Zugriff auf das Mikrofon, wenn du gefragt wirst.
+

@@ -8,7 +8,7 @@
 
 Je hebt de voorbeelden verzameld die je nodig hebt, nu ga je deze gebruiken om jouw machine learning-model te trainen.
 
---- task ---
+\--- task ---
 
 Klik op **<Terug naar project** in de linkerbovenhoek.
 
@@ -17,24 +17,24 @@ Klik op **Leer & Test**.
 Klik op de knop met het label **Train nieuw machine learning model**. Dit kan enkele minuten duren.
 ![Pijl die naar een knop wijst met de tekst 'Train nieuw machine learning model'.](images/train-new-model.png)
 
---- /task ---
+\--- /task ---
 
 Zodra het trainen is voltooid, kun je testen hoe goed jouw model jouw spraakopdrachten herkent.
 
---- task ---
+\--- task ---
 
 Klik op de **Start listening** knop en zeg dan "links".
 
---- /task ---
+\--- /task ---
 
 Als je machine learning-model dit herkent, wordt weergegeven wat het model voorspelt dat jij hebt gezegd.
 ![Pijl die naar de knop 'Start listening' wijst.](images/test-your-model.png)
 
---- task ---
+\--- task ---
 
 Test of het model ook "omhoog", "omlaag" en "rechts" herkent.
 
---- /task ---
+\--- /task ---
 
 Als je niet tevreden bent met hoe het model werkt, ga dan terug naar de **Train** pagina en voeg meer voorbeelden toe, en train daarna je model opnieuw.
 

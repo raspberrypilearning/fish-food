@@ -1,0 +1,41 @@
+1
+00:00:00,400 --> 00:00:05,080
+Jetzt ist es Zeit, Trainingsbeispiele hinzuzufügen 
+für deine eigentlichen Befehle.
+
+2
+00:00:05,080 --> 00:00:09,840
+Zuerst wirst du eine Beschriftung links hinzufügen.
+
+3
+00:00:09,840 --> 00:00:14,800
+Jetzt nimm dich auf wie du 'links' sagst.
+
+4
+00:00:14,800 --> 00:00:21,400
+Wiederholen dies, bis du 
+acht verschiedene Beispiele hast.
+
+5
+00:00:21,400 --> 00:00:27,280
+Dann, wiederhole dies für rechts.
+
+6
+00:00:27,280 --> 00:00:29,960
+Und du wirst auch dafür 
+acht Beispiele hinzufügen.
+
+7
+00:00:34,360 --> 00:00:41,880
+Und dann für oben und unten, füge acht 
+Beispiele hinzu wie du das Wort 'hoch'
+
+8
+00:00:41,880 --> 00:00:43,280
+und das Wort 'runter'.
+
+9
+00:00:43,280 --> 00:00:54,400
+Du fügst acht hinzu, sodass es 
+genug Daten gibt, mit denen du dein Modell trainieren kannst.
+

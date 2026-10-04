@@ -1,0 +1,12 @@
+1
+00:00:04,560 --> 00:00:06,960
+Şimdi, arka plan gürültüsüne bir örnek ekleyin
+
+2
+00:00:06,960 --> 00:00:11,680
+- bu yüzden kayıt yaparken hiçbir şey söylemeyin.
+
+3
+00:00:11,680 --> 00:00:20,160
+Sekiz örneğe ihtiyacınız olacak.
+

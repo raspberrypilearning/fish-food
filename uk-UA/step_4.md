@@ -1,4 +1,4 @@
-## Record the directions
+## Запиши вказівки
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,37 +6,37 @@
 </div>
 </html>
 
-Now you will record 8 examples of each word ('up', 'down', 'left', and 'right') so that your machine learning model can learn to recognise them.
+Тепер запиши 8 зразків кожного слова («вгору», «вниз», «ліворуч» та «праворуч»), щоб твоя модель машинного навчання навчилася їх розпізнавати.
 
 \--- task ---
 
-Click on **+ Add new label** on the top right of the screen and add a label called `left`.
+Натисни **+ Додати нову мітку** у верхньому правому куті екрану і додай мітку з назвою left ("ліворуч").
 
 \--- /task ---
 
 \--- task ---
 
-Click on **+ Add example** inside the box for the new `left` label, and record yourself saying "left".
+Натисни **+ Додати приклад** у полі з міткою left і запиши, як промовляєш «ліворуч».
 
-Repeat until you have recorded **at least 8 examples**.
-
-\--- /task ---
-
-\--- task ---
-
-**+ Add new label** to create another label called `right` and record 8 examples of you saying "right".
+Повторюй, поки не матимеш **щонайменше 8 зразків**.
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `up` and record 8 examples of you saying "up".
+Натисни **+ Додати нову мітку** і створи мітку з назвою right («праворуч») і запиши 8 зразків, як промовляєш «праворуч».
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `down` and record 8 examples of you saying "down".
+Натисни **+ Додати нову мітку** і створи мітку з назвою up («вгору») і запиши 8 зразків, як промовляєш «вгору».
+
+\--- /task ---
+
+\--- task ---
+
+Натисни **+ Додати нову мітку** і створи мітку з назвою down («вниз») і запиши 8 зразків, як промовляєш «вниз».
 
 \--- /task ---
 

@@ -8,7 +8,7 @@
 
 Modeliniz artık kelimeleri ayırt edebildiğine göre, onu bir Scratch programında kullanarak ekranda bir balığı hareket ettirebilirsiniz.
 
-\--- task ---
+--- task ---
 
 **< Projeye geri dön** bağlantısına tıklayın.
 
@@ -18,52 +18,53 @@ Modeliniz artık kelimeleri ayırt edebildiğine göre, onu bir Scratch program�
 
 **Scratch 3'te Aç** seçeneğine tıklayın.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 En üstte bulunan **Proje şablonları**'na tıklayın ve içine önceden bazı kodlar eklenmiş olan balık görsellerini yüklemek için 'Balık yemi' projesini seçin.
 
-\--- /task ---
+--- /task ---
 
 Çocuklar için Makine Öğrenimi, yeni eğittiğiniz modeli kullanmanıza olanak sağlamak için Scratch'e bazı özel bloklar ekledi. Onları blok listesinin en altında bulabilirsiniz.
 
 !['Dinlemeye başla', 'Dinlemeyi durdur' ve 'Sol kelimesini duyduğumda' gibi talimatları içeren, Çocuklar için Makine Öğrenimi tarafından oluşturulan yeni blokların listesi.](images/new-blocks.png)
 
-\--- task ---
+--- task ---
 
 **Balık** görselini seçtikten sonra **Kod** sekmesine tıklayın. Kodun doğru yerini bulun ve modele dinlemeye başlaması gerektiğini söyleyen özel bir blok ekleyin.
 
 ![Balık görselinde, 'bayrağa tıklandığında' bloğundan sonra 'dinlemeye başla' bloğu eklenir.](images/start-listening.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 **Balık** görseline 'yukarı' kodunu ekleyin.
 ![Balık görselinde, önce 'yukarı kelimesini duyduğumda' bloğu, sonra da '0 yönünde işaret et' bloğu eklenir.](images/starter-code.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 Balığı yukarı hareket ettirmek için kullandığınız koda bakın, ardından aşağı, sola ve sağa hareket ettirmek için gereken kodları bulmaya çalışın.
 
-## --- collapse ---
-
-## başlık: Bana nasıl yapılacağını göster
+--- collapse ---
+---
+title: Bana nasıl yapılacağını göster
+---
 
 ![Üç blok çifti daha eklendi: 'Sol kelimesini duyduğumda' ve '-90 yönüne işaret et'; 'Sağa kelimesini duyduğumda' ve '90 yönüne işaret et'; 'Aşağı kelimesini duyduğumda' ve '180 yönüne işaret et'.](images/finished-code.png)
 
-\--- /collapse ---
+--- /collapse ---
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 **Yeşil bayrağa** tıklayın ve yukarı, aşağı, sol veya sağ deyin. Balığın beklediğiniz yönde hareket ettiğinden emin olun.
 
-\--- /task ---
+--- /task ---
 
 
 

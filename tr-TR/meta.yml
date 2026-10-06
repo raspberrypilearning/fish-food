@@ -1,3 +1,4 @@
+---
 title: Balık yemi
 hero_image: images/banner.png
 description: Sadece sesinizi kullanarak bir balığı kontrol edin ve onu yeme yönlendirin
@@ -9,14 +10,14 @@ steps:
   - title: Ne yapacaksınız
   - title: Projeyi kurun
     completion:
-    - engaged
+      - engaged
   - title: Arka plan gürültüsü
   - title: Yol tarifini kaydedin
   - title: Modelin eğitin
   - title: Balığı hareket ettirin
     completion:
-    - internal
+      - internal
   - title: Meydan Okuma
     challenge: true
     completion:
-    - external
+      - external

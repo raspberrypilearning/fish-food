@@ -6,7 +6,7 @@ Bir **mikrofona** ihtiyacınız olacak.
 
 ![Sualtı ortamında palyaço balığı ve donut içeren bir Scratch projesi.](images/whatyouwillmake.png)
 
-\--- collapse ---
+--- collapse ---
 
 ---
 
@@ -15,12 +15,13 @@ Bir **mikrofona** ihtiyacınız olacak.
 - Bu proje 'makine öğrenimi' adı verilen bir teknolojiyi kullanıyor. Makine öğrenimi sistemleri büyük miktarda veri kullanılarak eğitilir.
 - Bu proje için hesap oluşturmanız veya giriş yapmanız gerekmiyor. Bu proje için, modeli oluşturmak üzere kullandığınız resim örnekleri yalnızca geçici olarak tarayıcınızda (yalnızca bilgisayarınızda) saklanır.
 
-\--- /collapse ---
+--- /collapse ---
 
-## --- collapse ---
+--- collapse ---
+---
+title: YouTube hesabınız yok mu? Videoları indirin!
+---
 
-## başlık: YouTube hesabınız yok mu? Videoları indirin!
+[Bu proje için tüm videoları](https://rpf.io/p/tr-TR/fish-food-go){:target="_blank"} indirebilirsiniz.
 
-[Bu proje için tüm videoları](https://rpf.io/p/en/fish-food-go){:target="_blank"} indirebilirsiniz.
-
-\--- /collapse ---
+--- /collapse ---

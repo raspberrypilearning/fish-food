@@ -1,4 +1,4 @@
-## Move the fish
+## Bewege den Fisch
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,54 +6,54 @@
 </div>
 </html>
 
-Now that your model can distinguish between words, you can use it in a Scratch program to move a fish around the screen.
+Weil dein Modell nun zwischen Wörtern unterscheiden kann, kannst du es in einem Scratch-Programm verwenden, um einen Fisch auf dem Bildschirm umher zubewegen.
 
 \--- task ---
 
-Click on the **< Back to project** link.
+Klicke auf den **< Zurück zum Projekt** Link.
 
-Click on **Make**.
+Klicke auf **Erstellen**.
 
-Click on **Scratch 3**.
+Klicke auf **Scratch 3**.
 
-Click on **Open in Scratch 3**.
+Klicke auf **Öffne in Scratch 3**.
 
 \--- /task ---
 
 \--- task ---
 
-Click on **Project templates** at the top and select the 'Fish food' project to load the fish sprite, which has some code already added to it.
+Klicke auf **Projektvorlagen** oben und wähle das Projekt 'Fisch Futter', um eine Fischsprite zu laden, das bereits Code beinhaltet.
 
 \--- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Machine Learning for Kids hat in Scratch schon einige bestimmte Blöcke hinzugefügt, mit denen du dein Modell trainieren kannst. Finde sie am unteren Rand der Blockliste.
 
-![A list of new blocks created by Machine Learning for Kids, including instructions such as 'Start listening', 'Stop listening', and 'When I hear left'.](images/new-blocks.png)
-
-\--- task ---
-
-With the **fish** sprite selected, click on the **Code** tab. Find the right place in the code and add a special block to tell the model to start listening.
-
-![In the fish sprite, a 'start listening' block is added after the 'when flag clicked' block.](images/start-listening.png)
-
-\--- /task ---
+![Eine Liste neuer Blöcke, die von Machine Learning for Kids erstellt wurden, inklusive Anweisungen wie 'Starte zuhören', 'Stoppe zuhören' und 'Wenn ich links höre'. (images/new-blocks.png)
 
 \--- task ---
 
-Add the code for 'up' to the **Fish** sprite.
-![In the fish sprite, a 'when I hear up' block is added, then a 'point in direction 0' block.](images/starter-code.png)
+Wenn die **Fisch** Sprite ausgewählt ist, klicke auf das Tab **Code**. Finde die richtige Stelle im Code und füge einen bestimmten Block hinzu, um dem Modell zu sagen, dass es mit dem Zuhören beginnen soll.
+
+![In der Fischsprite wird nach dem "Wenn die Flagge angeklickt wird"-Baustein ein 'Starte Zuhören'-Baustein hinzugefügt. (images/start-listening.png)
 
 \--- /task ---
 
 \--- task ---
 
-Look at the code you have to move the fish up, then see if you can work out the code for down, left, and right.
+Füge den Code für 'hoch' zu der **Fisch** Sprite hinzu.
+![In der Fischsprite, wird ein Baustein 'wenn ich hoch höre' hinzugefügt, dann ein 'Zeige in Richtung 0'-Baustein.](images/starter-code.png)
+
+\--- /task ---
+
+\--- task ---
+
+Schaue dir den Code an, um den Fisch nach oben zu bewegen, dann probiere den Code zu schreiben für unten, links und rechts.
 
 ## --- collapse ---
 
-## title: Show me how
+## title: Zeige mir wie
 
-![Three more pairs of blocks are added: 'When I hear left' and 'point in direction -90'; 'When I hear right' and 'point in direction 90'; 'When I hear down' and 'point in direction 180'.](images/finished-code.png)
+![Drei weitere Blöcke werden hinzugefügt: 'Wenn ich links höre' und 'Zeige in Richtung -90'; "Wenn ich rechts höre" und "Zeige in Richtung 90"; "Wenn ich unten höre" und "Zeige in Richtung 180". (images/finished-code.png)
 
 \--- /collapse ---
 
@@ -61,7 +61,7 @@ Look at the code you have to move the fish up, then see if you can work out the 
 
 \--- task ---
 
-Click the **green flag** and say up, down, left, or right. Check that the fish moves in the direction you expected.
+Klicke auf die **grüne Flagge** und sage, hoch, runter, links, oder rechts. Überprüfe, ob sich der Fisch in die von dir erwartete Richtung bewegt.
 
 \--- /task ---
 

@@ -1,41 +1,41 @@
 1
 00:00:00,400 --> 00:00:05,080
-So now it's time to add training 
-samples for your actual commands.
+Agora é altura de adicionar amostras 
+de treino para os teus comandos.
 
 2
 00:00:05,080 --> 00:00:09,840
-First, you're going to add a label called left.
+Primeiro, vais adicionar um rótulo chamado esquerda.
 
 3
 00:00:09,840 --> 00:00:14,800
-Now record yourself saying the word 'left'.
+Agora grava-te a dizer a palavra "esquerda".
 
 4
 00:00:14,800 --> 00:00:21,400
-Repeat this until you have 
-eight different examples.
+Repete isto até teres 
+oito exemplos diferentes.
 
 5
 00:00:21,400 --> 00:00:27,280
-Then do the same for right.
+Depois faz o mesmo para a direita.
 
 6
 00:00:27,280 --> 00:00:29,960
-And you're also going to add 
-eight examples for that one.
+E vais também adicionar 
+oito exemplos para este.
 
 7
 00:00:34,360 --> 00:00:41,880
-And then up and down, add eight 
-examples of you saying the word 'up',
+E depois para cima e para baixo, adiciona oito 
+exemplos teus a dizer as palavras "para cima",
 
 8
 00:00:41,880 --> 00:00:43,280
-and the word 'down'.
+e as palavras "para baixo".
 
 9
 00:00:43,280 --> 00:00:54,400
-You're adding eight so there's 
-enough data to train your model with.
+Estás a adicionar oito, portanto há 
+dados suficientes para treinar o teu modelo.
 

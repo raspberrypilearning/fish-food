@@ -1,4 +1,4 @@
-## Record the directions
+## Nimm the Anweisungen auf
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,37 +6,37 @@
 </div>
 </html>
 
-Now you will record 8 examples of each word ('up', 'down', 'left', and 'right') so that your machine learning model can learn to recognise them.
+Jetzt nimm 8 Beispiele für jedes Wort ('hoch', 'runter', 'links' und 'rechts') auf, sodass dein maschinelles Lernmodell lernen kann sie zu erkennen.
 
 \--- task ---
 
-Click on **+ Add new label** on the top right of the screen and add a label called `left`.
+Klicke auf **+ Neue Beschriftung hinzufügen** oben rechts auf dem Bildschirm und füge die Beschriftung `links` hinzu.
 
 \--- /task ---
 
 \--- task ---
 
-Click on **+ Add example** inside the box for the new `left` label, and record yourself saying "left".
+Klicke auf **+ Beispiel hinzufügen** in der Box für die neue Beschreibung `links` und nehme dich auf wie du "links" sagst.
 
-Repeat until you have recorded **at least 8 examples**.
-
-\--- /task ---
-
-\--- task ---
-
-**+ Add new label** to create another label called `right` and record 8 examples of you saying "right".
+Wiederhole das bis du **mindestens 8 Beispielen** aufgezeichnet hast.
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `up` and record 8 examples of you saying "up".
+**+ Neue Beschriftung hinzufügen**, um die Beschriftung `rechts` zu erstellen und 8 Beispiele aufzunehmen wie du "rechts" sagst.
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `down` and record 8 examples of you saying "down".
+**+ Neue Beschriftung hinzufügen**, um die Beschriftung `hoch` zu erstellen und 8 Beispiele aufzunehmen wie du "hoch" sagst.
+
+\--- /task ---
+
+\--- task ---
+
+**+ Neue Beschriftung hinzufügen**, um die Beschriftung `runter` zu erstellen und 8 Beispiele aufzunehmen wie du "runter" sagst.
 
 \--- /task ---
 

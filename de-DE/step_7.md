@@ -1,18 +1,18 @@
-## Challenge
+## Herausforderung
 
 \--- challenge ---
 
 \--- task ---
 
-Add a variable to keep track of the score, and add a point each time the fish eats some food.
+Füge eine Variable hinzu, um Punkte zu zählen und füge jedes Mal einen Punkt hinzu, wenn der Fisch etwas Futter frisst.
 
 ## --- collapse ---
 
-## title: Show me how
+## title: Zeige mir wie
 
-Add the circled code to the **Food** sprite.
+Füge den eingekreisten Code zur **Futter** Sprite hinzu.
 
-![Scratch code: Set score to 0, show, repeat until y position < -170, change y by -3, if touching fish then change score by 1, hide.](images/score-hint.png)
+![Scratch-Code: Setze Punktzahl auf 0, zeige, wiederhole bis y Position < -170, ändere y um -3, wenn sich die Fische berühren, ändere die Punktzahl um 1, verstecken. (images/score-hint.png)
 
 \--- /collapse ---
 
@@ -20,19 +20,19 @@ Add the circled code to the **Food** sprite.
 
 \--- task ---
 
-Add a new sprite that is not food, and deduct points if the fish eats it.
+Füge eine neue Sprite hinzu, die nicht Nahrung ist, und ziehen Punkte ab, wenn der Fisch diese isst.
 
 \--- /task ---
 
 \--- task ---
 
-Make the food fall at different random speeds.
+Lass das Essen mit verschiedenen zufälligen Geschwindigkeiten fallen.
 
 \--- /task ---
 
 \--- task ---
 
-Or, if you prefer, make a completely different game that uses voice commands to control a character!
+Oder, wenn dir das lieber ist, erstelle ein völlig neues Spiel, das Sprachbefehle verwendet, um eine Figur zu kontrollieren!
 
 \--- /task ---
 

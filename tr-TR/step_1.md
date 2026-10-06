@@ -10,7 +10,7 @@ Bir **mikrofona** ihtiyacınız olacak.
 
 ---
 
-## Başlık: Sesli komutlarım nerede saklanıyor?
+## title: Sesli komutlarım nerede saklanıyor?
 
 - Bu proje 'makine öğrenimi' adı verilen bir teknolojiyi kullanıyor. Makine öğrenimi sistemleri büyük miktarda veri kullanılarak eğitilir.
 - Bu proje için hesap oluşturmanız veya giriş yapmanız gerekmiyor. Bu proje için, modeli oluşturmak üzere kullandığınız resim örnekleri yalnızca geçici olarak tarayıcınızda (yalnızca bilgisayarınızda) saklanır.
@@ -19,7 +19,7 @@ Bir **mikrofona** ihtiyacınız olacak.
 
 ## --- collapse ---
 
-## başlık: YouTube hesabınız yok mu? Videoları indirin!
+## title: YouTube hesabınız yok mu? Videoları indirin!
 
 [Bu proje için tüm videoları](https://rpf.io/p/en/fish-food-go){:target="_blank"} indirebilirsiniz.
 

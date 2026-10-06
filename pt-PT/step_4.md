@@ -1,4 +1,4 @@
-## Record the directions
+## Grava as direções
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,37 +6,37 @@
 </div>
 </html>
 
-Now you will record 8 examples of each word ('up', 'down', 'left', and 'right') so that your machine learning model can learn to recognise them.
+Agora vais registar 8 exemplos de cada palavra ("para cima", "para baixo", "esquerda" e "direita") para que o teu modelo de machine learning possa aprender a reconhecê-las.
 
 \--- task ---
 
-Click on **+ Add new label** on the top right of the screen and add a label called `left`.
+Clica em **+ Adicionar um novo rótulo** no canto superior direito do ecrã e adiciona um rótulo chamado `esquerda`.
 
 \--- /task ---
 
 \--- task ---
 
-Click on **+ Add example** inside the box for the new `left` label, and record yourself saying "left".
+Clica em **+ Adicionar exemplos** dentro da caixa para o novo rótulo `esquerda`, e grava-te a dizer "esquerda".
 
-Repeat until you have recorded **at least 8 examples**.
-
-\--- /task ---
-
-\--- task ---
-
-**+ Add new label** to create another label called `right` and record 8 examples of you saying "right".
+Repete até teres registado **pelo menos 8 exemplos**.
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `up` and record 8 examples of you saying "up".
+**+ Adiciona um novo rótulo** para criar outro rótulo chamado `direita` e regista 8 exemplos teus a dizer "direita".
 
 \--- /task ---
 
 \--- task ---
 
-**+ Add new label** to create another label called `down` and record 8 examples of you saying "down".
+**+ Adicionar um novo rótulo** para criar outro rótulo chamado `para cima` e gravar 8 exemplos teus a dizer "para cima".
+
+\--- /task ---
+
+\--- task ---
+
+**+ Adicionar um novo rótulo** para criar outro rótulo chamado `para baixo` e gravar 8 exemplos teus a dizer "para baixo".
 
 \--- /task ---
 

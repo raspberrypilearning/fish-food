@@ -1,4 +1,4 @@
-## Train the model
+## Натренуй модель
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,37 +6,37 @@
 </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Необхідні зразки зібрано, тепер тобі треба їх використати, щоб натренувати свою модель машинного навчання.
 
 \--- task ---
 
-Click on **< Back to project** in the top left-hand corner.
+Натисни **< Назад до проєкту** у верхньому лівому куті.
 
-Click on **Learn & Test**.
+Натисни \*_Дізнатися та перевірити_.
 
-Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete.
-![Arrow pointing to a button saying 'Train new machine learning model'.](images/train-new-model.png)
+Натисни кнопку **Навчання нової моделі машинного навчання**. Це може зайняти кілька хвилин.
+![Стрілка вказує на кнопку 'Навчання нової моделі машинного навчання'.](images/train-new-model.png)
 
 \--- /task ---
 
-Once the training has finished, you can test how well your model recognises your voice commands.
+Після завершення навчання ти можеш перевірити, як добре твоя модель розпізнає голосові команди.
 
 \--- task ---
 
-Click the **Start listening** button, then say "left".
+Натисни **Почати слухати**, і скажи «ліворуч».
 
 \--- /task ---
 
-If your machine learning model recognises it, it will display what it predicts you said.
-![Arrow pointing to the start listening button.](images/test-your-model.png)
+Якщо твоя модель машинного навчання розпізнає слово, то вона покаже свій прогноз щодо цього слова.
+![Стрілка вказує на кнопку почати слухати.](images/test-your-model.png)
 
 \--- task ---
 
-Test whether the model recognises "up", "down", and "right" as well.
+Також перевір, чи розпізнає модель слова «вгору», «вниз» та «праворуч».
 
 \--- /task ---
 
-If you are not happy with how the model works, go back to the **Train** page and add more examples, then train your model again.
+Якщо поведінка моделі не є задовільною, то повернись на сторінку **Навчити** і додай більше зразків, а потім знову натренуй свою модель.
 
 
 

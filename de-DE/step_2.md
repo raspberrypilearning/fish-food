@@ -1,4 +1,4 @@
-## Set up the project
+## Projekt einrichten
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -8,34 +8,34 @@
 
 \--- task ---
 
-Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} in a web browser.
+Gehe zu [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} in einem Webbrowser.
 
-Click on **Try it now**.
-
-\--- /task ---
-
-\--- task ---
-
-Click on **Projects** in the menu bar at the top.
-
-Click on the **+ Add a new project** button.
-
-Name your project `Fish food` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**.
-![Creating a project](images/create-project.png)
-
-You should now see 'Fish food' in the projects list. Click on the project.
-![Project list with Fish food listed.](images/projects-list.png)
+Klicke auf **Jetzt ausprobieren**.
 
 \--- /task ---
 
 \--- task ---
 
-Click on the **Train** button.
-![Project main menu with an arrow pointing to the Train button.](images/project-train.png)
+Klicke in der Menüleiste oben auf **Projekte**.
 
-If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
+Klicke auf den Knopf **+ Neues Projekt hinzufügen**.
 
-![Pop-up message asking to allow microphone use.](images/allow-microphone.png)
+Benenne dein Projekt `Fischfutter` und lernen Sie **Sounds** zu erkennen und speichern Sie die Daten **in Ihrem Webbrowser**. Dann klicke auf **Erstellen**.
+![Projekt erstellen](images/create-project.png)
+
+In der Projektliste solltest du jetzt "Fisch Futter" sehen. Klicke auf das Projekt.
+![Projektliste mit Fisch Futter gelistet.](images/projects-list.png)
+
+\--- /task ---
+
+\--- task ---
+
+Klicke auf den **Trainieren** Button.
+![Hauptmenü des Projekts mit Pfeil, der auf den Trainieren Knopf zeigt.](images/project-train.png)
+
+Wenn du eine Pop-Up-Nachricht siehst, die dich fragt ein Mikrofon zu verwenden, klicke auf **Erlaube bei jedem Besuch**.
+
+![Pop-up Nachricht mit der Frage ein Mikrofon zu benutzen zu dürfen.](images/allow-microphone.png)
 
 \--- /task ---
 

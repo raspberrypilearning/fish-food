@@ -1,4 +1,4 @@
-## Set up the project
+## Cria o teu projeto
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -8,34 +8,34 @@
 
 \--- task ---
 
-Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} in a web browser.
+Vai para [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} num navegador web.
 
-Click on **Try it now**.
-
-\--- /task ---
-
-\--- task ---
-
-Click on **Projects** in the menu bar at the top.
-
-Click on the **+ Add a new project** button.
-
-Name your project `Fish food` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**.
-![Creating a project](images/create-project.png)
-
-You should now see 'Fish food' in the projects list. Click on the project.
-![Project list with Fish food listed.](images/projects-list.png)
+Clica em **Experimenta agora**.
 
 \--- /task ---
 
 \--- task ---
 
-Click on the **Train** button.
-![Project main menu with an arrow pointing to the Train button.](images/project-train.png)
+Clica em **Projetos** na barra do menu na parte superior.
 
-If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
+Clica no botão **+ Adicionar um novo projeto**.
 
-![Pop-up message asking to allow microphone use.](images/allow-microphone.png)
+Dá nome ao teu projeto `Comida para peixe` e configura-o para aprender a reconhecer **sons** e armazenar dados **no teu navegador web**. E clica em **Criar**.
+![Criar um projeto](images/create-project.png)
+
+Deves ver agora "Comida para peixe" na lista de projetos. Clica em cima do projeto.
+![Lista de projetos com Comida para peixe listada.](images/projects-list.png)
+
+\--- /task ---
+
+\--- task ---
+
+Clica no botão **Treinar**.
+![Menu principal do projeto com uma seta a apontar para o botão Treinar.](images/project-train.png)
+
+Se vires uma mensagem pop-up a solicitar a utilização do microfone, clica em **Permitir em todas as visitas**.
+
+![Mensagem pop-up a solicitar permissão para utilização do microfone.](images/allow-microphone.png)
 
 \--- /task ---
 

@@ -1,18 +1,18 @@
-## Challenge
+## Додаткове завдання
 
 \--- challenge ---
 
 \--- task ---
 
-Add a variable to keep track of the score, and add a point each time the fish eats some food.
+Додай змінну для відстеження рахунку і здобувай бал щоразу, коли рибка з'їдає корм.
 
 ## --- collapse ---
 
-## title: Show me how
+## title: Як це зробити
 
-Add the circled code to the **Food** sprite.
+Додай виділений червоним код до спрайта **Їжа**.
 
-![Scratch code: Set score to 0, show, repeat until y position < -170, change y by -3, if touching fish then change score by 1, hide.](images/score-hint.png)
+![Код Scratch: Надати рахунок значення 0, показати, повторити до значення y < -170, змінити y на -3, якщо торкаєтеся рибки, то змінити рахунок на 1, сховати.](images/score-hint.png)
 
 \--- /collapse ---
 
@@ -20,19 +20,19 @@ Add the circled code to the **Food** sprite.
 
 \--- task ---
 
-Add a new sprite that is not food, and deduct points if the fish eats it.
+Додай новий неїстівний спрайт, і віднімай очки, якщо рибка його їсть.
 
 \--- /task ---
 
 \--- task ---
 
-Make the food fall at different random speeds.
+Задай різну швидкість падіння їжі.
 
 \--- /task ---
 
 \--- task ---
 
-Or, if you prefer, make a completely different game that uses voice commands to control a character!
+Або якщо хочеш, створи зовсім іншу гру, яка використовує голосові команди для керування персонажем!
 
 \--- /task ---
 

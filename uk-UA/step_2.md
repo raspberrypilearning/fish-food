@@ -1,4 +1,4 @@
-## Set up the project
+## Створи проєкт
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -8,34 +8,34 @@
 
 \--- task ---
 
-Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} in a web browser.
+Перейди на [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} у браузері.
 
-Click on **Try it now**.
-
-\--- /task ---
-
-\--- task ---
-
-Click on **Projects** in the menu bar at the top.
-
-Click on the **+ Add a new project** button.
-
-Name your project `Fish food` and set it to learn to recognise **sounds**, and store data **in your web browser**. Then click on **Create**.
-![Creating a project](images/create-project.png)
-
-You should now see 'Fish food' in the projects list. Click on the project.
-![Project list with Fish food listed.](images/projects-list.png)
+Натисни **Спробувати**.
 
 \--- /task ---
 
 \--- task ---
 
-Click on the **Train** button.
-![Project main menu with an arrow pointing to the Train button.](images/project-train.png)
+Натисни **Проєкти** на панелі меню угорі.
 
-If you see a pop-up message asking to use the microphone, click on **Allow on every visit**.
+Натисни кнопку **+ Додати новий проєкт**.
 
-![Pop-up message asking to allow microphone use.](images/allow-microphone.png)
+Назви свій проєкт `Їжа для рибок` та налаштуй його на розпізнавання **звуків** та зберігання даних **у твоєму браузері**. Далі натисни кнопку **Створити**.
+![Створення проєкту](images/create-project.png)
+
+Тепер у списку проєктів має висвітлюватися «Їжа для рибок». Натисни на проєкт.
+![Список проєктів із Їжею для рибок.](images/projects-list.png)
+
+\--- /task ---
+
+\--- task ---
+
+Натисни кнопку **Навчити**.
+![Головне меню проєкту зі стрілкою, що вказує на кнопку «Навчити»] (images/project-train.png)
+
+Якщо побачиш вікно із запитом на використання мікрофону, натисни **Дозволити під час кожного відвідування**.
+
+![Вікно із запитом на використання мікрофону.](images/allow-microphone.png)
 
 \--- /task ---
 

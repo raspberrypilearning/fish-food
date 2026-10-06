@@ -1,26 +1,26 @@
-## Introduction
+## Вступ
 
-Train a machine learning model to recognise voice commands 'up', 'down', 'left', and 'right', and use them to control a fish in a fun game.
+Натренуй модель машинного навчання розпізнавати голосові команди «вгору», «вниз», «ліворуч» і «праворуч» та використовуй їх для керування рибкою у веселій грі.
 
-You will need a **microphone**.
+Тобі знадобиться **мікрофон**.
 
-![A Scratch project with a clownfish and a doughnut in an underwater scene.](images/whatyouwillmake.png)
+![Проєкт Scratch з рибкою-клоуном та пончиком під водою.](images/whatyouwillmake.png)
 
 \--- collapse ---
 
 ---
 
-## title: Where are my voice commands stored?
+## title: Де зберігаються мої голосові команди?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
-- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- Цей проєкт використовує технологію під назвою «машинне навчання». Системи машинного навчання навчаються з використанням великої кількості даних.
+- Для цього проєкту тобі не потрібно створювати обліковий запис або входити в систему. Приклади голосових команд, які ти запишеш для цього проєкту, тимчасово зберігаються у твоєму браузері (тільки на твоєму комп'ютері).
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Немає доступу до YouTube? Завантаж відео!
 
-You can [download all the videos for this project](https://rpf.io/p/en/fish-food-go){:target="_blank"}.
+Ти можеш [завантажити всі відео для цього проєкту](https://rpf.io/p/en/fish-food-go){:target="_blank"}.
 
 \--- /collapse ---

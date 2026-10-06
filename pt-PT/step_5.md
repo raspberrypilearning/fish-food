@@ -1,4 +1,4 @@
-## Train the model
+## Treina o modelo
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,37 +6,37 @@
 </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Reuniste os exemplos de que precisas, e agora vais usar esses exemplos para treinar o teu modelo de machine learning.
 
 \--- task ---
 
-Click on **< Back to project** in the top left-hand corner.
+Clica em **< Voltar para o projeto** no canto superior esquerdo.
 
-Click on **Learn & Test**.
+Clica em **Aprender & testar**.
 
-Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete.
-![Arrow pointing to a button saying 'Train new machine learning model'.](images/train-new-model.png)
+Clica no botão chamado **Treinar um novo modelo de Machine Learning**. Isto pode demorar alguns minutos até acontecer.
+![Seta que aponta para um botão a dizer 'Treinar um novo modelo de aprendizagem de máquina'.](images/train-new-model.png)
 
 \--- /task ---
 
-Once the training has finished, you can test how well your model recognises your voice commands.
+Quando o treino acabar, podes testar o quão bem o teu modelo reconhece os teus comandos de voz.
 
 \--- task ---
 
-Click the **Start listening** button, then say "left".
+Clica no botão **Começar a ouvir**, e diz "esquerda".
 
 \--- /task ---
 
-If your machine learning model recognises it, it will display what it predicts you said.
-![Arrow pointing to the start listening button.](images/test-your-model.png)
+Se o teu modelo de machine learning reconhecer o comando de voz, vai exibir a previsão do que disseste.
+![Seta que aponta para o botão de começar a ouvir.](images/test-your-model.png)
 
 \--- task ---
 
-Test whether the model recognises "up", "down", and "right" as well.
+Testa se o modelo também reconhece "para cima", "para baixo" e "direita".
 
 \--- /task ---
 
-If you are not happy with how the model works, go back to the **Train** page and add more examples, then train your model again.
+Se não ficares satisfeito com o funcionamento do modelo, volta à página **Treinar** e adiciona mais exemplos, depois treina o modelo outra vez.
 
 
 

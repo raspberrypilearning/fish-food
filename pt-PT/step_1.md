@@ -1,26 +1,26 @@
-## Introduction
+## Introdução
 
-Train a machine learning model to recognise voice commands 'up', 'down', 'left', and 'right', and use them to control a fish in a fun game.
+Treina o modelo de machine learning para reconhecer os comandos de voz "para cima", "para baixo", "esquerda" e "direita", e utiliza-os para controlar o peixe num jogo divertido.
 
-You will need a **microphone**.
+Vais precisar de um **microfone**.
 
-![A Scratch project with a clownfish and a doughnut in an underwater scene.](images/whatyouwillmake.png)
+![Um projeto Scratch com um peixe-palhaço e um donut numa cena subaquática.](images/whatyouwillmake.png)
 
 \--- collapse ---
 
 ---
 
-## title: Where are my voice commands stored?
+## title: Onde ficam guardados os meus comandos de voz?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
-- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- Este projeto usa uma tecnologia chamada "machine learning". Os sistemas de machine learning são treinados com uma grande quantidade de dados.
+- Este projeto não exige que cries uma conta ou faças login. Para este projeto, os exemplos que usas para fazer o modelo são armazenados temporariamente no teu navegador (apenas na tua máquina).
 
 \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Não tens Youtube? Descarrega estes vídeos!
 
-You can [download all the videos for this project](https://rpf.io/p/en/fish-food-go){:target="_blank"}.
+Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/en/fish-food-go){:target="_blank"}.
 
 \--- /collapse ---

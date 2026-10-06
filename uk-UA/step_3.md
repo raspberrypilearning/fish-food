@@ -1,4 +1,4 @@
-## Background noise
+## Фоновий шум
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,22 +6,22 @@
 </div>
 </html>
 
-First, you will collect samples of background noise. This will help your machine learning model to tell the difference between your voice commands, and the background noise where you are.
+Спочатку тобі потрібно записати зразки фонового шуму. Це допоможе твоїй моделі машинного навчання відрізнити голосові команди від фонового шуму.
 
 \--- task ---
 
-Click the **+ Add example** button in **background noise**.
+Натисни кнопку **+ Додати приклад** у розділі **фоновий шум**.
 
-Click on the microphone but don't say anything to record 2 seconds of background noise.
-![Arrow pointing to microphone button.](images/record-button.png)
+Натисни на мікрофон, але при цьому нічого не говори, і запиши 2 секунди фонового шуму.
+![Стрілка вказує на кнопку мікрофона.](images/record-button.png)
 
-Click the **Add** button to save your recording.
+Натисни кнопку **Додати**, щоб зберегти запис.
 
 \--- /task ---
 
 \--- task ---
 
-Repeat those steps until you have **at least 8 examples** of background noise.
-![Bucket filled with 8 background noise examples.](images/8-background.png)
+Повтори ці кроки, поки не запишеш **принаймні 8 зразків** фонового шуму.
+![Корзинка з 8 прикладами фонового шуму.](images/8-background.png)
 
 \--- /task ---

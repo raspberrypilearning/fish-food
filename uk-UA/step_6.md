@@ -1,4 +1,4 @@
-## Move the fish
+## Перемісти рибку
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,54 +6,54 @@
 </div>
 </html>
 
-Now that your model can distinguish between words, you can use it in a Scratch program to move a fish around the screen.
+Тепер, коли твоя модель може розрізняти команди, ти можеш використати її у програмі «Скретч», щоб пересувати рибку на екрані.
 
 \--- task ---
 
-Click on the **< Back to project** link.
+Натисни **< Назад до проєкту**.
 
-Click on **Make**.
+Натисни **Створити**.
 
-Click on **Scratch 3**.
+Натисни **Scratch 3**.
 
-Click on **Open in Scratch 3**.
+Натисни **Відкрити в Scratch 3**.
 
 \--- /task ---
 
 \--- task ---
 
-Click on **Project templates** at the top and select the 'Fish food' project to load the fish sprite, which has some code already added to it.
+Натисни **Шаблони проєктів** угорі та вибери проєкт «Їжа для рибок», щоб завантажити спрайт рибки, до якого вже додано певний код.
 
 \--- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Machine Learning for Kids додали до Скретчу деякі спеціальні блоки, які дозволяють використовувати щойно навчену модель. Знайди їх внизу списку з блоками.
 
-![A list of new blocks created by Machine Learning for Kids, including instructions such as 'Start listening', 'Stop listening', and 'When I hear left'.](images/new-blocks.png)
-
-\--- task ---
-
-With the **fish** sprite selected, click on the **Code** tab. Find the right place in the code and add a special block to tell the model to start listening.
-
-![In the fish sprite, a 'start listening' block is added after the 'when flag clicked' block.](images/start-listening.png)
-
-\--- /task ---
+![Список нових блоків, створених програмою Машинне навчання для дітей, включно з такими інструкціями, як «Почніть слухати», «Припинити слухати» та «When I hear left» (Коли я чую ліворуч).](images/new-blocks.png)
 
 \--- task ---
 
-Add the code for 'up' to the **Fish** sprite.
-![In the fish sprite, a 'when I hear up' block is added, then a 'point in direction 0' block.](images/starter-code.png)
+Обери спрайт **рибки** та натисни на вкладку **Код**. Знайди правильне місце у коді та додай спеціальний блок, щоби модель почала слухати.
+
+![У спрайті рибки додано блок «почніть слухати» після блоку «коли натиснуто прапорець».](images/start-listening.png)
 
 \--- /task ---
 
 \--- task ---
 
-Look at the code you have to move the fish up, then see if you can work out the code for down, left, and right.
+Додай код для вказівки «вгору» до спрайта **рибки**.
+![У спрайті рибки додано блок «When I hear up» (Коли я чую вгору), а потім блок «повернути в напрямку 0».](images/starter-code.png)
+
+\--- /task ---
+
+\--- task ---
+
+Подивися на код, який потрібен для переміщення рибки вгору, а потім спробуй розібратися з кодом для переміщення вниз, вліво та вправо.
 
 ## --- collapse ---
 
-## title: Show me how
+## title: Як це зробити
 
-![Three more pairs of blocks are added: 'When I hear left' and 'point in direction -90'; 'When I hear right' and 'point in direction 90'; 'When I hear down' and 'point in direction 180'.](images/finished-code.png)
+![Додано ще три пари блоків: «When I hear left» (Коли я чую ліворуч) та «повернути в напрямку -90»; «When I hear right» (Коли я чую праворуч) та «повернути в напрямку 90»; «When I hear down» (Коли я чую вниз) та «повернути в напрямку 180».](images/finished-code.png)
 
 \--- /collapse ---
 
@@ -61,7 +61,7 @@ Look at the code you have to move the fish up, then see if you can work out the 
 
 \--- task ---
 
-Click the **green flag** and say up, down, left, or right. Check that the fish moves in the direction you expected.
+Натисни на **зелений прапорець** та промов «вгору», «вниз», «ліворуч» чи «праворуч». Перевір, чи рухається рибка у правильному напрямку.
 
 \--- /task ---
 

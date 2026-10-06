@@ -1,4 +1,4 @@
-## Background noise
+## Hintergrundgeräusche
 
 <html>
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
@@ -6,22 +6,22 @@
 </div>
 </html>
 
-First, you will collect samples of background noise. This will help your machine learning model to tell the difference between your voice commands, and the background noise where you are.
+Zuerst sammle Beispiele von Hintergrundgeräuschen. Das hilft deinem maschinellen Lernmodell, zwischen Ihren Sprachbefehlen und den Hintergrundgeräuschen an deinem Standort zu unterscheiden.
 
 \--- task ---
 
-Click the **+ Add example** button in **background noise**.
+Klicke den **+ Beispiele hinzufügen** Knopf in **Hintergrundgeräusche**.
 
-Click on the microphone but don't say anything to record 2 seconds of background noise.
-![Arrow pointing to microphone button.](images/record-button.png)
+Klicke auf das Mikrofon, aber spreche nicht, um 2 Sekunden Hintergrundgeräusche aufzunehmen.
+![Pfeil zeigt auf den Mikrofonknopf.](images/record-button.png)
 
-Click the **Add** button to save your recording.
+Klicke auf **Hinzufügen** um deine Aufnahme zu speichern.
 
 \--- /task ---
 
 \--- task ---
 
-Repeat those steps until you have **at least 8 examples** of background noise.
-![Bucket filled with 8 background noise examples.](images/8-background.png)
+Wiederhole diese Schritte, bis du **mindestens 8 Beispiele** von Hintergrundgeräuschen hast.
+![Eimer gefüllt mit 8 Beispielen für Hintergrundgeräusche.](images/8-background.png)
 
 \--- /task ---

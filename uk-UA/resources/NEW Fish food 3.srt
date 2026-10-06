@@ -1,41 +1,39 @@
 1
 00:00:00,400 --> 00:00:05,080
-So now it's time to add training 
-samples for your actual commands.
+Тепер настав час додати зразки 
+для твоїх команд.
 
 2
 00:00:05,080 --> 00:00:09,840
-First, you're going to add a label called left.
+Спочатку додай мітку з назвою left («ліворуч»).
 
 3
 00:00:09,840 --> 00:00:14,800
-Now record yourself saying the word 'left'.
+Тепер запиши, як ти промовляєш слово «ліворуч».
 
 4
 00:00:14,800 --> 00:00:21,400
-Repeat this until you have 
-eight different examples.
+Повторюй, доки не запишеш вісім зразків.
 
 5
 00:00:21,400 --> 00:00:27,280
-Then do the same for right.
+Далі зроби те саме зі словом «праворуч».
 
 6
 00:00:27,280 --> 00:00:29,960
-And you're also going to add 
-eight examples for that one.
+Сюди теж потрібно 8 зразків.
 
 7
 00:00:34,360 --> 00:00:41,880
-And then up and down, add eight 
-examples of you saying the word 'up',
+Далі слова «вгору» та «вниз». 
+Запиши 8 зразків як ти промовляєш «вгору»
 
 8
 00:00:41,880 --> 00:00:43,280
-and the word 'down'.
+і «вниз».
 
 9
 00:00:43,280 --> 00:00:54,400
-You're adding eight so there's 
-enough data to train your model with.
+Ти додаєш вісім зразків, щоб даних 
+для навчання твоєї моделі було достатньо.
 

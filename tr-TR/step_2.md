@@ -6,15 +6,15 @@
 </div>
 </html>
 
---- task ---
+\--- task ---
 
 Bir web tarayıcısında [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} adresine gidin.
 
 **Şimdi dene**ye tıklayın.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Üstteki menü çubuğunda **Projeler**'e tıklayın.
 
@@ -26,9 +26,9 @@ Projenize `Balık Yemi` adını verin ve **sesleri** tanımayı öğrenmesi ve v
 Projeler listesinde artık 'Balık yemi'ni görmelisiniz. Projeye tıklayın.
 ![Balık yemi içeren proje listesi.](images/projects-list.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Eğit** düğmesine tıklayın.
 ![Proje ana menüsü, Eğit düğmesine işaret eden ok ile](images/project-train.png)
@@ -37,7 +37,7 @@ Mikrofonu kullanmak için izin isteyen bir açılır pencere mesajı görürseni
 
 ![Mikrofon kullanımına izin verilmesini isteyen açılır pencere mesajı.](images/allow-microphone.png)
 
---- /task ---
+\--- /task ---
 
 
 

@@ -8,35 +8,35 @@
 
 Şimdi, makine öğrenme modelinizin bunları tanımayı öğrenmesi için her kelimeden ('yukarı', 'aşağı', 'sol' ve 'sağ') 8 örnek kaydedeceksiniz.
 
---- task ---
+\--- task ---
 
 Ekranın sağ üst köşesindeki **+ Yeni etiket ekle** seçeneğine tıklayın ve `sol` adında bir etiket ekleyin.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Yeni `sol` etiketi için kutunun içindeki **+ Örnek ekle** seçeneğine tıklayın ve "sol" kelimesini söylerken kendinizi kaydedin.
 
 En az 8 örnek kaydedene kadar tekrarlayın.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **+ Yeni etiket ekle** seçeneğiyle `sağ` adında başka bir etiket oluşturun ve "sağ" kelimesini söylediğiniz 8 örneği kaydedin.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **+ Yeni etiket ekle** seçeneğiyle `yukarı` adında başka bir etiket oluşturun ve "yukarı" kelimesini söylediğiniz 8 örneği kaydedin.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **+ Yeni etiket ekle** seçeneğiyle `aşağı` adında başka bir etiket oluşturun ve "aşağı" kelimesini söylediğiniz 8 örneği kaydedin.
 
---- /task ---
+\--- /task ---
 

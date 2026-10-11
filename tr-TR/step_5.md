@@ -8,7 +8,7 @@
 
 İhtiyacınız olan örnekleri topladınız, şimdi bu örnekleri kullanarak makine öğrenimi modelinizi eğiteceksiniz.
 
---- task ---
+\--- task ---
 
 Sol üst köşedeki **< Projeye geri dön** seçeneğine tıklayın.
 
@@ -17,24 +17,24 @@ Sol üst köşedeki **< Projeye geri dön** seçeneğine tıklayın.
 **Yeni makine öğrenimi modeli eğit** etiketli butona tıklayın. Bu işlem birkaç dakika sürebilir.
 !['Yeni makine öğrenimi modeli eğit' yazan bir düğmeye işaret eden ok.](images/train-new-model.png)
 
---- /task ---
+\--- /task ---
 
 Eğitim tamamlandıktan sonra, modelinizin sesli komutlarınızı ne kadar iyi tanıdığını test edebilirsiniz.
 
---- task ---
+\--- task ---
 
 **Dinlemeye başla** düğmesine tıklayın, ardından "sol" deyin.
 
---- /task ---
+\--- /task ---
 
 Makine öğrenme modeliniz bunu tanırsa, ne söylediğinizi tahmin ederek ekranda gösterecektir.
 ![Dinlemeyi başlat düğmesine işaret eden ok.](images/test-your-model.png)
 
---- task ---
+\--- task ---
 
 Modelin "yukarı", "aşağı" ve "sağ" yönlerini de tanıyıp tanımadığını test edin.
 
---- /task ---
+\--- /task ---
 
 Modelin çalışma şeklinden memnun değilseniz, **Eğit** sayfasına geri dönün, daha fazla örnek ekleyin ve modelinizi tekrar eğitin.
 

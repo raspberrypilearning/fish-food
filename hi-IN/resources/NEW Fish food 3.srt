@@ -1,0 +1,41 @@
+1
+00:00:00,400 --> 00:00:05,080
+So now it's time to add training 
+samples for your actual commands.
+
+2
+00:00:05,080 --> 00:00:09,840
+First, you're going to add a label called left.
+
+3
+00:00:09,840 --> 00:00:14,800
+Now record yourself saying the word 'left'.
+
+4
+00:00:14,800 --> 00:00:21,400
+Repeat this until you have 
+eight different examples.
+
+5
+00:00:21,400 --> 00:00:27,280
+Then do the same for right.
+
+6
+00:00:27,280 --> 00:00:29,960
+And you're also going to add 
+eight examples for that one.
+
+7
+00:00:34,360 --> 00:00:41,880
+And then up and down, add eight 
+examples of you saying the word 'up',
+
+8
+00:00:41,880 --> 00:00:43,280
+and the word 'down'.
+
+9
+00:00:43,280 --> 00:00:54,400
+You're adding eight so there's 
+enough data to train your model with.
+

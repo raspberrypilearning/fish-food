@@ -8,35 +8,35 @@
 
 Tu vas maintenant enregistrer 8 exemples pour chaque mot (« haut », « bas », « gauche » et « droite ») pour que ton modèle d’apprentissage automatique puisse apprendre à les reconnaître.
 
---- task ---
+\--- task ---
 
-Clique sur **+ Ajouter une nouvelle étiquette** en haut à droite de l'écran et ajoute une étiquette appelée `gauche`.
+Clique sur **+ Ajouter une nouvelle étiquette** en haut à droite de l'écran et ajoute une étiquette appelée « gauche ».
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Clique sur **+ Ajouter un exemple** dans la case pour la nouvelle étiquette `gauche`, et enregistre-toi en disant « gauche ».
+Clique sur **+ Ajouter un exemple** dans la case pour la nouvelle étiquette « gauche », et enregistre-toi en disant « gauche ».
 
 Répète jusqu'à ce que tu aies enregistré **au moins 8 exemples**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-**+ Ajoute une nouvelle étiquette** pour créer une autre étiquette appelée `droite` et enregistre 8 exemples où tu dis « droite ».
+**+ Ajoute une nouvelle étiquette** pour créer une autre étiquette appelée « droite » et enregistre 8 exemples où tu dis « droite ».
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-**+ Ajoute une nouvelle étiquette** pour créer une autre étiquette appelée `haut` et enregistre 8 exemples où tu dis « haut ».
+**+ Ajoute une nouvelle étiquette** pour créer une autre étiquette appelée « haut » et enregistre 8 exemples où tu dis « haut ».
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-**+ Ajoute une nouvelle étiquette** pour créer une autre étiquette appelée `bas` et enregistre 8 exemples où tu dis « bas ».
+**+ Ajoute une nouvelle étiquette** pour créer une autre étiquette appelée « bas » et enregistre 8 exemples où tu dis « bas ».
 
---- /task ---
+\--- /task ---
 

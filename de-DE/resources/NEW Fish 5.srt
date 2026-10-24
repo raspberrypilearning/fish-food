@@ -1,0 +1,64 @@
+1
+00:00:05,480 --> 00:00:10,840
+Klicke auf 'Zurück zum Projekt', dann auf 'Erstellen'.
+
+2
+00:00:10,840 --> 00:00:15,400
+Du wirst das Modell in Scratch 3 verwenden.
+
+3
+00:00:15,400 --> 00:00:24,280
+Gehe zu 'Projektvorlagen' und
+finde die Vorlage für Fischfutter.
+
+4
+00:00:24,280 --> 00:00:26,560
+Ein bisschen Code wurde bereits hinzugefügt.
+
+5
+00:00:26,560 --> 00:00:33,000
+Öffne das Menü für bestimmte Machine Learning for 
+Kids Blöcke, und ziehe einen "wenn ich hoch höre" Baustein.
+
+6
+00:00:33,000 --> 00:00:40,960
+Füge Code hinzu, damit sich der Fisch nach oben bewegt, wenn du 
+das Wort 'hoch' sagst.
+
+7
+00:00:40,960 --> 00:00:45,840
+Mach das Gleiche für unten.
+
+8
+00:00:45,840 --> 00:00:52,960
+Füge auch Code hinzu für links und rechts.
+
+9
+00:00:52,960 --> 00:00:55,000
+Jetzt ist es Zeit, das Modell zu testen.
+
+10
+00:00:55,000 --> 00:00:59,480
+Klicke auf die grüne Flagge und sage dann 'hoch'
+
+11
+00:00:59,480 --> 00:00:59,920
+'runter'
+
+12
+00:01:01,680 --> 00:01:03,200
+'links'
+
+13
+00:01:03,200 --> 00:01:04,280
+und 'rechts'.
+
+14
+00:01:04,280 --> 00:01:06,360
+Schau dir an wie sich dein Fisch bewegt!
+
+15
+00:01:06,360 --> 00:01:13,520
+Verwende deine Stimme, um die 
+Fische zu bewegen und das fallende Essen zu essen.
+

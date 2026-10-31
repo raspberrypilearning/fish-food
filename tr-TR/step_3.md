@@ -8,7 +8,7 @@
 
 Öncelikle, arka plan gürültüsü örnekleri toplayacaksınız. Bu, makine öğrenimi modelinizin sesli komutlarınız ile bulunduğunuz ortamdaki arka plan gürültüsü arasındaki farkı ayırt etmesine yardımcı olacaktır.
 
---- task ---
+\--- task ---
 
 **Arka plan gürültüsü** bölümündeki **+ Örnek ekle** düğmesine tıklayın.
 
@@ -17,11 +17,11 @@ Mikrofona tıklayın ancak hiçbir şey söylemeyin; böylece 2 saniye boyunca a
 
 Kaydınızı kaydetmek için **Ekle** düğmesine tıklayın.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 En az 8 adet arka plan gürültüsü örneği elde edene kadar bu adımları tekrarlayın.
 ![8 adet arka plan gürültüsü örneğiyle dolu kova.](images/8-background.png)
 
---- /task ---
+\--- /task ---

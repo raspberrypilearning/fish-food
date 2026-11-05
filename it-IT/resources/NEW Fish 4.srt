@@ -1,0 +1,24 @@
+1
+00:00:04,280 --> 00:00:09,120
+Fare clic su "Torna al progetto", 
+quindi fare clicca su "Impara e testa".
+
+2
+00:00:09,120 --> 00:00:16,520
+Addestra il tuo nuovo modello di apprendimento automatico
+ - potrebbero volerci alcuni minuti.
+
+3
+00:00:16,520 --> 00:00:19,720
+Fare clic su 'Inizia ad ascoltare' e poi dire 'sinistra'.
+
+4
+00:00:19,720 --> 00:00:23,360
+Verifica se il modello
+riconosce che dici "sinistra".
+
+5
+00:00:23,360 --> 00:00:29,960
+Controllare anche se il modello 
+riconosce 'destra', 'su' e 'giù'.
+

@@ -6,15 +6,15 @@
 </div>
 </html>
 
---- task ---
+\--- task ---
 
 Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/#!/login){:target="_blank"} in een webbrowser.
 
 Klik op **Probeer nu**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Klik op **Projecten** in de menubalk bovenaan.
 
@@ -26,9 +26,9 @@ Geef je project de naam 'Visvoer' en geef het de opdracht om **geluiden (sounds)
 Je zou nu 'Visvoer' moeten zien in de projectenlijst. Klik op dit project.
 ![Projectlijst met visvoer vermeld.](images/projects-list.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 Klik op de knop **Train**.
 ![Project hoofdmenu met een pijl naar de Train button.](images/project-train.png)
@@ -37,7 +37,7 @@ Als je een pop-upbericht ziet met de vraag om de microfoon te gebruiken, klik da
 
 ![Pop-upbericht met de vraag om het gebruik van de microfoon toe te staan.](images/allow-microphone.png)
 
---- /task ---
+\--- /task ---
 
 
 

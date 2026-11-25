@@ -1,0 +1,24 @@
+1
+00:00:04,280 --> 00:00:09,120
+Click on 'Back to project', 
+then click on 'Learn & Test'.
+
+2
+00:00:09,120 --> 00:00:16,520
+Train your new machine learning 
+model - it might take a few minutes.
+
+3
+00:00:16,520 --> 00:00:19,720
+Click on 'Start listening' and then say 'left'.
+
+4
+00:00:19,720 --> 00:00:23,360
+Test whether the model 
+recognises you saying 'left'.
+
+5
+00:00:23,360 --> 00:00:29,960
+Also check whether the model 
+recognises 'right', 'up' and 'down'.
+
